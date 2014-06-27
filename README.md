@@ -1,4 +1,4 @@
-PhD student and teaching associate, Department of Economics, Royal Holloway, University of London.[[cv](https://www.dropbox.com/s/o43b407rjhv3how/cv.pdf)]
+PhD student and teaching associate, Department of Economics, Royal Holloway, University of London[[cv](https://www.dropbox.com/s/o43b407rjhv3how/cv.pdf)]
 
 ## Contact
 Department of Economics<br>
