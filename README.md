@@ -26,7 +26,7 @@ E-mail: pwte054[at]rhul.ac.uk
 
 ## Mildly interesting stuff
 
-* Some personal things: [Cycling](http://veloviewer.com/athlete/2135375/), [Other webpage](http://iv2sls.tumblr.com/)(mainly some photography stuff)
+* Some personal things: [Cycling](http://veloviewer.com/athlete/2135375/), [Other webpage](http://iv2sls.tumblr.com/) (mainly some photography stuff)
 * Websites I frequent: [FiveThirtyEight](http://fivethirtyeight.com/), [The Inner Ring](http://inrng.com/), [War is Boring](https://medium.com/war-is-boring/), [XKCD](http://xkcd.com/)
 * People with interesting work: [Andrew Gelman](http://andrewgelman.com/), [Elias Papaioannou](https://sites.google.com/site/papaioannouelias/)
 * LaTeX resources: [table generator](http://truben.no/latex/table/),[equation editor](http://www.codecogs.com/latex/eqneditor.php), and an overview of various [beamer themes](http://www.hartwork.org/beamer-theme-matrix/)
