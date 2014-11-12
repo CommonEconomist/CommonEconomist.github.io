@@ -17,9 +17,10 @@ E-mail: pwte054[at]rhul.ac.uk
 
 * Using weather variation to predict conflict in Africa
 * Armed conflict and excess mortality:  A study of mortality estimates for Iraq
-* [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
-* [Food prices and the incidence of violence in Africa, 1990-2011](http://ssrn.com/abstract=2418973)
-* [Economic shocks and civil conflict onset in Sub-Saharan Africa, 1981-2010](http://ssrn.com/abstract=2418953) (forthcoming [Defence & Peace Economics](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489))   [[replication data](http://commoneconomist.github.io/Shocks-and-Onset/)] 
+* A spatial analysis of the effect of foreign aid in conflict areas [[paper](http://ssrn.com/abstract=2450867)]
+* Food prices and the incidence of violence in Africa, 1990-2011 [[paper](http://ssrn.com/abstract=2418973)]
+* Economic shocks and civil conflict onset in Sub-Saharan Africa, 1981-2010 [[paper](http://ssrn.com/abstract=2418953),[replication data](http://commoneconomist.github.io/Shocks-and-Onset/)] <br>
+(forthcoming [Defence & Peace Economics](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489))
 
 ### Data and code
 
