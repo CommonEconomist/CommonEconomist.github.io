@@ -16,7 +16,7 @@ E-mail: pwte054[at]rhul.ac.uk
 ### Research projects and working papers
 
 * Using weather variation to predict conflict in Africa
-* Armed conflict and excess mortality:  A study of mortality estimates for Iraq
+* Armed conflict and excess mortality:  A study of mortality estimates for Iraq (_with M. Spagat_)
 * A spatial analysis of the effect of foreign aid in conflict areas [[paper](http://ssrn.com/abstract=2450867)]
 * Food prices and the incidence of violence in Africa, 1990-2011 [[paper](http://ssrn.com/abstract=2418973)]
 * Economic shocks and civil conflict onset in Sub-Saharan Africa, 1981-2010 [[paper](http://ssrn.com/abstract=2418953), [replication data](http://commoneconomist.github.io/Shocks-and-Onset/)] <br>
