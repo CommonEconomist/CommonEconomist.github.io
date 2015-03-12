@@ -22,7 +22,7 @@ E-mail: pwte054[at]rhul.ac.uk
 * Forecasting climate-conflict in Sub-Saharan Africa: A paucity of predictive power [[paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)]
 * Armed conflict and excess mortality:  A study of mortality estimates for Iraq (_with M. Spagat_)
 * A spatial analysis of the effect of foreign aid in conflict areas [[paper](http://ssrn.com/abstract=2450867)]
-* Food prices and the incidence of violence in Africa, 1990-2011 [[paper](http://ssrn.com/abstract=2418973)]
+* Food imports, international prices, and violence in Africa [[paper](http://ssrn.com/abstract=2418973)]
 
 
 ### Data and code
