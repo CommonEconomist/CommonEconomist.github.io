@@ -14,28 +14,23 @@ E-mail: pwte054[at]rhul.ac.uk
 ## Research
 
 ### Publications
-* [Economic shocks and civil conflict onset in Sub-Saharan Africa, 1981-2010, February 2015 ,Defence and Peace Economics 26 (2) 153-177](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489) 
+* [Economic shocks and civil conflict onset in Sub-Saharan Africa, 1981-2010](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489), February 2015 ,Defence and Peace Economics 26 (2) 153-177
 
-
-### Research projects and working papers
-
-## Working papers
+### Working papers
 
 * [Forecasting climate-conflict in Sub-Saharan Africa: A paucity of predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 * [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)]
 
-## Research projects
+### Research projects
 * Armed conflict and excess mortality:  A study of mortality estimates for Iraq (_with M. Spagat_)
 * Addressing the causes of civil strife in Uganda: The short-term effects of foreign aid
 * Modeling civil unrest dynamics
 
-### Data and code
-
-## Replication data
+### Replication data
 * [Economic shocks and civil conflict (DPE)](http://commoneconomist.github.io/Shocks-and-Onset/)
 
-## Various
+### Code
 * Rainfall data: [R-script](https://github.com/CommonEconomist/Africa-precipitation/blob/master/precipitation.R) for downloading rainfall data (from [NASA GPCP](ftp://rsd.gsfc.nasa.gov/pub/912/bolvin/GPCP_ASCII/)), increasing resolution (2.5 to 0.5 degree), and aggregating data to country-year level. Script uses these [shapefiles](http://thematicmapping.org/downloads/world_borders.php)
 
 ## Mildly interesting stuff
