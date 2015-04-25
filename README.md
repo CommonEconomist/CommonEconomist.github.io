@@ -18,7 +18,7 @@ E-mail: pwte054[at]rhul.ac.uk
 
 ### Working papers
 
-* [Forecasting climate-conflict in Sub-Saharan Africa: A paucity of predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
+* [Climate-Conflict in Sub-Saharan Africa: Examining Predictive Power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 * [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)]
 
