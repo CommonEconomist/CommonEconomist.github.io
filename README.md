@@ -20,7 +20,7 @@ E-mail: pwte054[at]rhul.ac.uk
 
 * [Climate-Conflict in Sub-Saharan Africa: Examining Predictive Power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
-* [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)]
+* [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)
 
 ### Research projects
 * Armed conflict and excess mortality:  A study of mortality estimates for Iraq (_with M. Spagat_)
@@ -35,7 +35,7 @@ E-mail: pwte054[at]rhul.ac.uk
 
 ## Mildly interesting stuff
 
-* [When not running regressions](http://veloviewer.com/athlete/2135375/) (Current [Eddington](http://triathlete-europe.competitor.com/2011/04/18/measuring-bike-miles-eddington-number) number: 72)
+* [When not running regressions](http://veloviewer.com/athlete/2135375/) (Current [Eddington](http://triathlete-europe.competitor.com/2011/04/18/measuring-bike-miles-eddington-number) number: 74)
 * Websites I frequent regularly: [Andrew Gelman](http://andrewgelman.com/), [FiveThirtyEight](http://fivethirtyeight.com/), [The Inner Ring](http://inrng.com/), [War is Boring](https://medium.com/war-is-boring/), [War Nerd](http://pando.com/author/garybrecher/)
 * Useful research resources: [LaTeX table generator](http://truben.no/latex/table/), [code and data for the social sciences](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf), [graphs instead of tables](http://tables2graphs.com/doku.php), [CSV fingerprint](http://setosa.io/csv-fingerprint/)
 * Finally: [Estimating the airspeed velocity of an unladen swallow](http://style.org/unladenswallow/?none)
