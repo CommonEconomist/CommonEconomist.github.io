@@ -31,7 +31,7 @@ E-mail: pwte054[at]rhul.ac.uk
 * [Economic shocks and civil conflict (DPE)](http://commoneconomist.github.io/Shocks-and-Onset/)
 
 ### Code
-* Rainfall data: [R-script](https://github.com/CommonEconomist/Africa-precipitation/blob/master/precipitation.R) for downloading rainfall data (from [NASA GPCP](ftp://rsd.gsfc.nasa.gov/pub/912/bolvin/GPCP_ASCII/)), increasing resolution (2.5 to 0.5 degree), and aggregating data to country-year level. Script uses these [shapefiles](http://thematicmapping.org/downloads/world_borders.php)
+* Rainfall data: [R-script](https://github.com/CommonEconomist/precipitation/blob/master/precipitation.R) for downloading rainfall data (from [NASA GPCP](ftp://rsd.gsfc.nasa.gov/pub/912/bolvin/GPCP_ASCII/)), increasing resolution (2.5 to 0.5 degree), and aggregating data to country-year level. Script uses these [shapefiles](http://thematicmapping.org/downloads/world_borders.php)
 
 ## Mildly interesting stuff
 
