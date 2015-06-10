@@ -28,10 +28,12 @@ E-mail: pwte054[at]rhul.ac.uk
 * Modeling civil unrest dynamics
 
 ### Replication data
-* [Economic shocks and civil conflict (DPE)](http://commoneconomist.github.io/Shocks-and-Onset/)
+* [Economic shocks and civil conflict (DPE)](https://github.com/CommonEconomist/DPE_Shocks_and_Conflict_Onset)
 
 ### Code
-* Rainfall data: [R-script](https://github.com/CommonEconomist/precipitation/blob/master/precipitation.R) for downloading rainfall data (from [NASA GPCP](ftp://rsd.gsfc.nasa.gov/pub/912/bolvin/GPCP_ASCII/)), increasing resolution (2.5 to 0.5 degree), and aggregating data to country-year level. Script uses these [shapefiles](http://thematicmapping.org/downloads/world_borders.php)
+* Aggregate [precipitation data in R](https://github.com/CommonEconomist/precipitation/blob/master/precipitation.R). Script wil download precipitation data (from [NASA GPCP](ftp://rsd.gsfc.nasa.gov/pub/912/bolvin/GPCP_ASCII/)), increase the resolution of the grid (2.5 to 0.5 degree), and aggregate data to country-year level for African countries. Script uses these [shapefiles](http://thematicmapping.org/downloads/world_borders.php)
+* Calculating [spatial lag](https://gist.github.com/CommonEconomist/2de0ead3ada2c2f5be70) in time-series cross-section data
+* Plotting [earthquake locations](https://gist.github.com/CommonEconomist/b1ad8c16c2282d6c7896) in the past 7 days
 
 ## Mildly interesting stuff
 
