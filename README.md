@@ -30,6 +30,14 @@ E-mail: pwte054[at]rhul.ac.uk
 ### Replication data
 * [Economic shocks and civil conflict (DPE)](https://github.com/CommonEconomist/DPE_Shocks_and_Conflict_Onset)
 
+### Replications
+Replication results for a number of studies that are part of my own project or that I replicated out of interest.
+See the respective websites for more information.
+* ["Mortality in Iraq Associated with the 2003–2011 War and Occupation"](https://github.com/CommonEconomist/Replications/tree/master/2013_Hagopian_et_al)
+* ["Warming increases the risk of civil war in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2009_Burke_et_al)
+* ["The Legacy of Historical Conflict: Evidence from Africa"](https://github.com/CommonEconomist/Replications/tree/master/2014_Besley_Reynal-Querol)
+* ["Modest, Secure, and Informed: Successful Development in Conflict Zones"](https://github.com/CommonEconomist/Replications/tree/master/2013_Berman_et_al)
+
 ### Code
 * Aggregate [precipitation data in R](https://gist.github.com/01da48de3a0d97074890.git). Script wil download precipitation data (from [NASA GPCP](ftp://rsd.gsfc.nasa.gov/pub/912/bolvin/GPCP_ASCII/)), increase the resolution of the grid (2.5 to 0.5 degree), and aggregate data to country-year level for African countries. Script uses these [shapefiles](http://thematicmapping.org/downloads/world_borders.php)
 * Calculating [spatial lag](https://gist.github.com/CommonEconomist/2de0ead3ada2c2f5be70) in time-series cross-section data
