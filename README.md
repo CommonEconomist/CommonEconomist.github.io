@@ -15,7 +15,7 @@ E-mail: pwte054[at]rhul.ac.uk
 
 ### Publications
 * [Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)<br>
-February 2015, *Defence and Peace Economics* 26 (2), 153-177
+*Defence and Peace Economics*, February 2015, 26 (2), 153-177
 
 ### Working papers
 
