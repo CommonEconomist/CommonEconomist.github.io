@@ -47,5 +47,9 @@ See the respective websites for more information.
 ## Mildly interesting stuff
 
 * [When not running regressions](http://veloviewer.com/athlete/2135375/) (Current [Eddington](http://triathlete-europe.competitor.com/2011/04/18/measuring-bike-miles-eddington-number) number: 74)
-* Useful research resources: [LaTeX table generator](http://truben.no/latex/table/), [code and data for the social sciences](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf), [graphs instead of tables](http://tables2graphs.com/doku.php), [CSV fingerprint](http://setosa.io/csv-fingerprint/)
+* Useful research resources 
+ * [LaTeX table generator](http://truben.no/latex/table/)
+ * [Code and data for the social sciences](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf)
+ * [Graphs instead of tables](http://tables2graphs.com/doku.php)
+ * [CSV fingerprint](http://setosa.io/csv-fingerprint/)
 
