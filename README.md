@@ -24,7 +24,7 @@ February 2015, *Defence and Peace Economics* 26 (2), 153-177
 * [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)
 
 ### Research projects
-* Armed conflict and excess mortality:  A study of mortality estimates for Iraq (_with M. Spagat_)
+* War and excess mortality (_with M. Spagat_)
 * Addressing the causes of civil strife in Uganda: The short-term effects of foreign aid
 * Modeling civil unrest dynamics
 
