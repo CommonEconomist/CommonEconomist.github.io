@@ -25,15 +25,14 @@ E-mail: pwte054[at]rhul.ac.uk
 
 ### Research projects
 * War and excess mortality (_with M. Spagat_)
-* Addressing the causes of civil strife in Uganda: The short-term effects of foreign aid
+* Foreign aid allocation in Uganda: The short-term effects of conflict
 * Modeling civil unrest dynamics
 
 ### Replication data
 * [Economic shocks and civil conflict (DPE)](https://github.com/CommonEconomist/DPE_Shocks_and_Conflict_Onset)
 
 ### Replications
-Replication results for a number of studies that are part of my own project or that I replicated out of interest.
-See the respective websites for more information.
+These are a number of replications of studies that I found interesting or which were relevant to my own research projects. Please see the respective pages for more information on the studies and the replication results.
 * ["Mortality in Iraq Associated with the 2003–2011 War and Occupation"](https://github.com/CommonEconomist/Replications/tree/master/2013_Hagopian_et_al)
 * ["Warming increases the risk of civil war in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2009_Burke_et_al)
 * ["The Legacy of Historical Conflict: Evidence from Africa"](https://github.com/CommonEconomist/Replications/tree/master/2014_Besley_Reynal-Querol)
@@ -54,4 +53,6 @@ See the respective websites for more information.
  * [Code and data for the social sciences](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf)
  * [Graphs instead of tables](http://tables2graphs.com/doku.php)
  * [CSV fingerprint](http://setosa.io/csv-fingerprint/)
+* [Accidental aRt](http://accidental-art.tumblr.com/) 
+ 
 
