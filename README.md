@@ -29,7 +29,7 @@ E-mail: pwte054[at]rhul.ac.uk
 * Modeling civil unrest dynamics
 
 ### Replication data
-* [Economic shocks and civil conflict (DPE)](https://github.com/CommonEconomist/DPE_Shocks_and_Conflict_Onset)
+* [Economic shocks and civil conflict (DPE)](https://github.com/CommonEconomist/Research_data/tree/master/DPE_2015)
 
 ### Replications
 These are a number of replications of studies that I found interesting or which were relevant to my own research projects. Please see the respective pages for more information on the studies and the replication results.
