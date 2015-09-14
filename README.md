@@ -1,4 +1,4 @@
-PhD student and teaching fellow [[cv](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf)]<br>
+Ph.D. [[cv](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf)]<br>
 Department of Economics<br>
 Royal Holloway, University of London 
 
@@ -41,14 +41,14 @@ These are a number of replications of studies that I found interesting or which 
 * ["Pattern in Escalations in Insurgent and Terrorist Activity"](https://github.com/CommonEconomist/Replications/tree/master/2011_Johnson_et_al)
 
 ### Code
-* Aggregate [precipitation data in R](https://gist.github.com/01da48de3a0d97074890.git). Script wil download precipitation data (from [NASA GPCP](ftp://rsd.gsfc.nasa.gov/pub/912/bolvin/GPCP_ASCII/)), increase the resolution of the grid (2.5 to 0.5 degree), and aggregate data to country-year level for African countries. Script uses these [shapefiles](http://thematicmapping.org/downloads/world_borders.php)
-* Calculating [spatial lag](https://gist.github.com/CommonEconomist/2de0ead3ada2c2f5be70) in time-series cross-section data
-* Plotting [earthquake locations](https://gist.github.com/CommonEconomist/b1ad8c16c2282d6c7896) in the past 7 days
-* Aggregate [spatial points data to grid-cell](https://gist.github.com/CommonEconomist/df037c06d4e1c0d637fc) level
+* Aggregate [precipitation data in R](https://github.com/CommonEconomist/R_code/blob/master/spatial_data/Precipitation.R). Script wil download precipitation data (from [NASA GPCP](ftp://rsd.gsfc.nasa.gov/pub/912/bolvin/GPCP_ASCII/)), increase the resolution of the grid (2.5 to 0.5 degree), and aggregate data to country-year level for African countries. Script uses these [shapefiles](http://thematicmapping.org/downloads/world_borders.php)
+* Aggregate [spatial point data to grid-cell](https://github.com/CommonEconomist/R_code/blob/master/spatial_data/Points2Grid.R) level
+* Calculating [spatial lag](https://github.com/CommonEconomist/R_code/blob/master/spatial_data/W.R) in time-series cross-section data
+* Plotting [earthquake locations](https://github.com/CommonEconomist/R_code/blob/master/earth_quakes.R) in the past 7 days
 
 ## Mildly interesting stuff
 
-* [When not running regressions](http://veloviewer.com/athlete/2135375/) (Current [Eddington number](http://triathlete-europe.competitor.com/2011/04/18/measuring-bike-miles-eddington-number): 74)
+* [When not running regressions](http://veloviewer.com/athlete/2135375/) (Current [Eddington number](http://triathlete-europe.competitor.com/2011/04/18/measuring-bike-miles-eddington-number): 79
 * Useful research resources 
  * [LaTeX table generator](http://truben.no/latex/table/)
  * [Code and data for the social sciences](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf)
