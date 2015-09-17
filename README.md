@@ -39,6 +39,7 @@ These are a number of replications of studies that I found interesting or which 
 * ["Modest, Secure, and Informed: Successful Development in Conflict Zones"](https://github.com/CommonEconomist/Replications/tree/master/2013_Berman_et_al)
 * ["International Commodity Prices, Growth and the Outbreak of Civil War in Sub-Saharan Africa"](https://github.com/CommonEconomist/Replications/tree/master/2010_Bruckner_Ciccone)
 * ["Pattern in Escalations in Insurgent and Terrorist Activity"](https://github.com/CommonEconomist/Replications/tree/master/2011_Johnson_et_al)
+* ["Rising Food Prices, Food Price Volatility, and Social Unrest"](https://github.com/CommonEconomist/Replications/tree/master/2015_Bellemare)
 
 ### Code
 * Aggregate [precipitation data in R](https://github.com/CommonEconomist/R_code/blob/master/spatial_data/Precipitation.R). Script wil download precipitation data (from [NASA GPCP](ftp://rsd.gsfc.nasa.gov/pub/912/bolvin/GPCP_ASCII/)), increase the resolution of the grid (2.5 to 0.5 degree), and aggregate data to country-year level for African countries. Script uses these [shapefiles](http://thematicmapping.org/downloads/world_borders.php)
