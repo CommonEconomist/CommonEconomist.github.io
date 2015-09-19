@@ -51,7 +51,7 @@ These are a number of replications of studies that I found interesting or which 
 
 ## Mildly interesting stuff
 
-* [When not running regressions](http://veloviewer.com/athlete/2135375/) (Current [Eddington number](http://triathlete-europe.competitor.com/2011/04/18/measuring-bike-miles-eddington-number): 80
+* [When not running regressions](http://veloviewer.com/athlete/2135375/) (Current [Eddington number](http://triathlete-europe.competitor.com/2011/04/18/measuring-bike-miles-eddington-number): 80)
 * Useful research resources 
  * [LaTeX table generator](http://truben.no/latex/table/)
  * [Code and data for the social sciences](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf)
