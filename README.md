@@ -1,4 +1,4 @@
-[CV](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf)<br>
+[CV](https://goo.gl/BlYtbz)<br>
 *Contact:* stijn.vanweezel.2011 [at] live.rhul.ac.uk
 
 ## Research
