@@ -1,4 +1,4 @@
-[[cv](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf)]<br>
+[CV](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf)<br>
 E-mail: stijn.vanweezel.2011[at]live.rhul.ac.uk
 
 ## Research
