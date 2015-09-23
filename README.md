@@ -13,12 +13,12 @@
 
 ### Working papers
 
+* * [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with M. Spagat_)
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 * [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)
 
 ### Research projects
-* War and excess mortality (_with M. Spagat_)
 * Violent deaths in Iraq (_with M. Spagat_)
 * Conflict patterns in Asia
 * Foreign aid allocation in Uganda: The short-term effects of conflict
