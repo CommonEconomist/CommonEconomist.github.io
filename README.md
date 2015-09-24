@@ -3,10 +3,6 @@
 
 ## Research
 
-### Research interests
-**Primary:** Conflict, development economics<br>
-**Secondary:** Applied econometrics, Bayesian estimation, spatial econometrics
-
 ### Publications
 * [Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)<br>
 *Defence and Peace Economics*, February 2015, 26 (2), 153-177
@@ -14,9 +10,10 @@
 ### Working papers
 
 * [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with M. Spagat_)
+* [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
-* [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)
+
 
 ### Research projects
 * Violent deaths in Iraq (_with M. Spagat_)
@@ -48,6 +45,7 @@ More information on each study and replication results are given on the respecti
 
 * [When not running regressions](http://veloviewer.com/athlete/2135375/). Current [Eddington number](http://triathlete-europe.competitor.com/2011/04/18/measuring-bike-miles-eddington-number) (or h-index if you want) is **80**.
 * [Import substitution in the Premier League](http://www.nytimes.com/2015/04/02/upshot/globalization-under-attack-on-the-soccer-field.html?partner=rss&emc=rss&abt=0002&abg=1)
+* [Distance you can travel by train in Europe in one day](https://www.washingtonpost.com/news/worldviews/wp/2015/06/05/map-the-remarkable-distances-you-can-travel-on-a-european-train-in-less-than-a-day/)
 * [Accidental aRt](http://accidental-art.tumblr.com/) 
 * Useful research resources 
  * [LaTeX table generator](http://truben.no/latex/table/)
