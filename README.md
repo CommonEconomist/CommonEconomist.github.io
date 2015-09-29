@@ -21,7 +21,7 @@
 * Foreign aid allocation in Uganda: The short-term effects of conflict
 
 ### Replication data
-* [Economic shocks and civil conflict (DPE)](https://github.com/CommonEconomist/Research_data/tree/master/DPE_2015)
+* [Economic shocks and civil conflict (DPE)](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Replications
 These are a number of studies that I have replicated as I found them interesting, or they were relevant to my own research projects. 
