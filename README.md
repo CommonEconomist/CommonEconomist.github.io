@@ -9,14 +9,14 @@
 
 ### Working papers
 
-* [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with M. Spagat_)
+* [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with Michael Spagat_)
 * [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 
 
 ### Research projects
-* Violent deaths in Iraq (_with M. Spagat_)
+* Violent deaths in Iraq (_with Michael Spagat_)
 * Conflict patterns in Asia
 * Foreign aid allocation in Uganda: The short-term effects of conflict
 
@@ -24,8 +24,8 @@
 * [Economic shocks and civil conflict (DPE)](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Replications
-These are a number of studies that I have replicated as I found them interesting, or they were relevant to my own research projects. 
-More information on each study and replication results are given on the respective pages (following the link).
+These are a number of studies that I have replicated as I found them interesting, or they were relevant to my own research projects (a sort of drive-by falsification). 
+More information on each study and the replication effort can be found at the respective page, following the link.
 
 * ["Mortality in Iraq Associated with the 2003–2011 War and Occupation"](https://github.com/CommonEconomist/Replications/tree/master/2013_Hagopian_et_al)
 * ["Warming increases the risk of civil war in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2009_Burke_et_al)
@@ -36,7 +36,7 @@ More information on each study and replication results are given on the respecti
 * ["Rising Food Prices, Food Price Volatility, and Social Unrest"](https://github.com/CommonEconomist/Replications/tree/master/2015_Bellemare)
 
 ### Code
-* Aggregate [precipitation data in R](https://github.com/CommonEconomist/R_code/blob/master/spatial_data/Precipitation.R). Script wil download precipitation data (from [NASA GPCP](ftp://rsd.gsfc.nasa.gov/pub/912/bolvin/GPCP_ASCII/)), increase the resolution of the grid (2.5 to 0.5 degree), and aggregate data to country-year level for African countries. Script uses these [shapefiles](http://thematicmapping.org/downloads/world_borders.php)
+* Aggregate [precipitation data in R](https://github.com/CommonEconomist/R_code/blob/master/spatial_data/Precipitation.R). 
 * Aggregate [spatial point data to grid-cell](https://github.com/CommonEconomist/R_code/blob/master/spatial_data/Points2Grid.R) level
 * Calculating [spatial lag](https://github.com/CommonEconomist/R_code/blob/master/spatial_data/W.R) in time-series cross-section data
 * Plotting [earthquake locations](https://github.com/CommonEconomist/R_code/blob/master/earth_quakes.R) in the past 7 days
