@@ -47,4 +47,7 @@ More information on each study and the replication effort can be found at the re
 * [Accidental aRt](http://accidental-art.tumblr.com/) 
 * [LaTeX table generator](http://truben.no/latex/table/)
 * [Tufte in R](https://github.com/CommonEconomist/Rcode/tree/master/NightLights)
+* [Economic historical data](http://www.cgeh.nl/data)
+* [Empirical studies of conflict](https://esoc.princeton.edu/)
+
  
