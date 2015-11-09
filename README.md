@@ -15,7 +15,7 @@
 
 ### Research projects
 * Violent deaths in Iraq (_with Michael Spagat_)
-* Conflict patterns in Asia
+* Statistical patterns of conflict (_with Neil Johnson & Michael Spagat_)
 
 ### Replication data
 * [Economic shocks and civil conflict (DPE)](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
