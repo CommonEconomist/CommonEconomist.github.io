@@ -7,17 +7,15 @@
 * [Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)<br>
 *Defence and Peace Economics*, February 2015, 26 (2), 153-177
 
-### Working papers
+### Research projects
 * [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with Michael Spagat_)
 * [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
-
-### Research projects
 * Violent deaths in Iraq (_with Michael Spagat_)
 * Statistical patterns of conflict (_with Neil Johnson & Michael Spagat_)
 
-### Papers that are in limbo
+### Work in limbo
 * [Commodity prices, growth, and civil war revisited](http://ssrn.com/abstract=2688476)
 
 ### Replication data
