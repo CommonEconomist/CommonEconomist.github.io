@@ -5,7 +5,8 @@
 
 ### Publications
 * [Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)<br>
-*Defence and Peace Economics*, February 2015, 26 (2), 153-177
+*Defence and Peace Economics*, February 2015, 26 (2), 153-177<br>
+[Data & code](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Research projects
 * [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with Michael Spagat_)
@@ -17,9 +18,6 @@
 
 ### Work in limbo
 * [Commodity prices, growth, and civil war revisited](http://ssrn.com/abstract=2688476)
-
-### Replication data
-* [Economic shocks and civil conflict (DPE)](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Replications
 These are a number of studies that I have replicated as I found them interesting, or they were relevant to my own research projects (a sort of drive-by falsification). 
