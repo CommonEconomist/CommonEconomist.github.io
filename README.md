@@ -18,7 +18,7 @@
 * Statistical patterns of conflict (_with Neil Johnson & Michael Spagat_)
 
 ### Papers that are in limbo
-* [Commodity prices, growth, and civil war revisited]()
+* [Commodity prices, growth, and civil war revisited](http://ssrn.com/abstract=2688476)
 
 ### Replication data
 * [Economic shocks and civil conflict (DPE)](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
