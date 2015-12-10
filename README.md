@@ -33,11 +33,5 @@ More information on each study and the replication effort can be found at the re
 
 ## Mildly interesting stuff
 * [When not running regressions](http://veloviewer.com/athlete/2135375/).<br>
-(Current Eddington number, or h-index if you want, is **80**.)
-* Some stuff to read or look at: [Import substitution in the Premier League](http://www.nytimes.com/2015/04/02/upshot/globalization-under-attack-on-the-soccer-field.html?partner=rss&emc=rss&abt=0002&abg=1); [Distance you can travel by train in Europe in one day](https://www.washingtonpost.com/news/worldviews/wp/2015/06/05/map-the-remarkable-distances-you-can-travel-on-a-european-train-in-less-than-a-day/); [How large should whales be?](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053967); [Accidental aRt](http://accidental-art.tumblr.com/) 
-* [LaTeX table generator](http://truben.no/latex/table/)
-* [Tufte in R](https://github.com/CommonEconomist/Rcode/tree/master/NightLights)
-* [Economic historical data](http://www.cgeh.nl/data)
-* [Empirical studies of conflict](https://esoc.princeton.edu/)
-
- 
+Current Eddington number: **80**
+* ["Estimating the Airspeed Velocity of an Unladen Swallow"](http://style.org/unladenswallow/)
