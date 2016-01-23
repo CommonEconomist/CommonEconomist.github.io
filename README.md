@@ -10,7 +10,7 @@
 
 ### Current projects
 * [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)
-* * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
+* [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 * [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with Michael Spagat_)
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
 * Violent deaths in Iraq (_with Michael Spagat_)
