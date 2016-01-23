@@ -14,7 +14,7 @@
 * [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with Michael Spagat_)
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
 * Violent deaths in Iraq (_with Michael Spagat_)
-* * Statistical patterns of conflict (_with Neil Johnson, Michael Spagat_)
+* Statistical patterns of conflict (_with Neil Johnson, Michael Spagat_)
 
 ### Work in limbo and productive failures
 * [Commodity prices, growth, and civil war revisited](http://ssrn.com/abstract=2688476)
