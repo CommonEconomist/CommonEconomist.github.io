@@ -10,13 +10,13 @@
 
 ### Current projects
 * [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)
-* [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 * [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with Michael Spagat_)
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
 * Violent deaths in Iraq (_with Michael Spagat_)
 * Statistical patterns of conflict (_with Neil Johnson, Michael Spagat_)
 
 ### Work in limbo and productive failures
+* [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 * [Commodity prices, growth, and civil war revisited](http://ssrn.com/abstract=2688476)
 
 ### Replications
@@ -30,6 +30,7 @@ More information on each study and the replication effort can be found at the re
 * ["International Commodity Prices, Growth and the Outbreak of Civil War in Sub-Saharan Africa"](https://github.com/CommonEconomist/Replications/tree/master/2010_Bruckner_Ciccone)
 * ["Pattern in Escalations in Insurgent and Terrorist Activity"](https://github.com/CommonEconomist/Replications/tree/master/2011_Johnson_et_al)
 * ["Rising Food Prices, Food Price Volatility, and Social Unrest"](https://github.com/CommonEconomist/Replications/tree/master/2015_Bellemare)
+* ["Climate change, rainfall, and social conflict in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2012_Hendrix_Salehyan)
 
 ## Mildly interesting stuff
 * [When not running regressions](http://veloviewer.com/athlete/2135375/).<br>
