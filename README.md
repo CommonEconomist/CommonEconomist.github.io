@@ -1,22 +1,21 @@
 [CV](https://goo.gl/BlYtbz)<br>
 *Contact:* stijn.vanweezel.2011 [at] live.rhul.ac.uk
 
-## Research
-
 ### Publications
+* [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973) (_forthcoming Oxford Economic Papers_)
 * [Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)<br>
 *Defence and Peace Economics*, February 2015, 26 (2), 153-177<br>
 [Data + code](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Current projects
-* [Food imports, international prices, and violence in Africa](http://ssrn.com/abstract=2418973)
+
+* Statistical patterns of conflict (_with Neil Johnson, Michael Spagat_). You can find a presentation of this work [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/).
+* [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 * [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with Michael Spagat_)
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
 * Violent deaths in Iraq (_with Michael Spagat_)
-* Statistical patterns of conflict (_with Neil Johnson, Michael Spagat_)
 
-### Work in limbo and productive failures
-* [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
+### In limbo
 * [Commodity prices, growth, and civil war revisited](http://ssrn.com/abstract=2688476)
 
 ### Replications
@@ -32,7 +31,7 @@ More information on each study and the replication effort can be found at the re
 * ["Rising Food Prices, Food Price Volatility, and Social Unrest"](https://github.com/CommonEconomist/Replications/tree/master/2015_Bellemare)
 * ["Climate change, rainfall, and social conflict in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2012_Hendrix_Salehyan)
 
-## Mildly interesting stuff
+### Other
 * [When not running regressions](http://veloviewer.com/athlete/2135375/).<br>
-Current Eddington number: **80**
-* ["Estimating the Airspeed Velocity of an Unladen Swallow"](http://style.org/unladenswallow/)
+My current Eddington number is 80. 
+
