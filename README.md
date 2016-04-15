@@ -8,8 +8,7 @@
 [Data + code](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Current projects
-
-* Statistical patterns of conflict (_with Neil Johnson, Michael Spagat_). You can find a presentation of this work [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/).
+* Modern Wars: Fundamental Patterns and Predictions (_with Neil Johnson, Michael Spagat_). You can find a presentation of this work [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/).
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 * [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with Michael Spagat_)
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
@@ -20,7 +19,7 @@
 
 ### Replications
 These are a number of studies that I have replicated as I found them interesting, or they were relevant to my own research projects (a sort of drive-by falsification). 
-More information on each study and the replication effort can be found at the respective page, following the link.
+More information on each study and the replication effort can be found at the respective page.
 
 * ["Mortality in Iraq Associated with the 2003–2011 War and Occupation"](https://github.com/CommonEconomist/Replications/tree/master/2013_Hagopian_et_al)
 * ["Warming increases the risk of civil war in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2009_Burke_et_al)
@@ -33,5 +32,4 @@ More information on each study and the replication effort can be found at the re
 
 ### Other
 * [When not running regressions](http://veloviewer.com/athlete/2135375/).<br>
-My current Eddington number is 80. 
-
+My current Eddington number is 81. 
