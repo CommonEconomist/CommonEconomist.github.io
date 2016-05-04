@@ -3,7 +3,8 @@
 
 ### Publications
 * [Food imports, international prices, and violence in Africa](http://oep.oxfordjournals.org/content/early/2016/05/02/oep.gpw015.abstract)<br>
-*Oxford Economic Papers*, forthcoming
+*Oxford Economic Papers*, forthcoming <br>
+[Data + code](https://github.com/CommonEconomist/Publications/tree/master/OEP_2016)
 * [Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)<br>
 *Defence and Peace Economics*, February 2015, 26 (2), 153-177<br>
 [Data + code](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
