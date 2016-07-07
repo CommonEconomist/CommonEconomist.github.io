@@ -16,6 +16,7 @@
 
 ### In limbo
 * [Commodity prices, growth, and civil war revisited](http://ssrn.com/abstract=2688476)
+* [When a Tree Falls in the Forest: Conflict Event Size and Media Reporting ](http://ssrn.com/abstract=2805949)
 
 ### Replications
 These are a number of studies that I have replicated as I found them interesting, or they were relevant to my own research projects (a sort of drive-by falsification). 
