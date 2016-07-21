@@ -8,7 +8,7 @@
 [Data + code](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Current projects
-* Modern Wars: Fundamental Patterns and Predictions (_with Neil Johnson, Michael Spagat_). You can find a presentation of this work [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/).
+* Modern Wars: Fundamental Patterns and Predictions (_with Neil Johnson, Michael Spagat_). You can find a presentation of this work [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/). Part of this project is also covered [here](http://projects.wionews.com/terrormaths/index.html). 
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 * [War and excess mortality](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with Michael Spagat_)
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
