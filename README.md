@@ -30,6 +30,7 @@ More information on each study and the replication effort can be found at the re
 * ["Pattern in Escalations in Insurgent and Terrorist Activity"](https://github.com/CommonEconomist/Replications/tree/master/2011_Johnson_et_al)
 * ["Rising Food Prices, Food Price Volatility, and Social Unrest"](https://github.com/CommonEconomist/Replications/tree/master/2015_Bellemare)
 * ["Climate change, rainfall, and social conflict in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2012_Hendrix_Salehyan)
+* ["Using Power Laws to Estimate Conflict Size"](https://github.com/CommonEconomist/Replications/tree/master/2014_Friedman)
 
 ### Other
 * [When not running regressions](http://veloviewer.com/athlete/2135375/).<br>
