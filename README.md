@@ -1,6 +1,3 @@
-[CV](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf?dl=0)<br>
-*Contact:* stijn.vanweezel.2011 [at] live.rhul.ac.uk
-
 ### Publications
 * Food imports, international prices, and violence in Africa, [Oxford Economic Papers](http://oep.oxfordjournals.org/content/68/3/758.abstract), 2016 <br>
 [Data + code](https://github.com/CommonEconomist/Publications/tree/master/OEP_2016)
@@ -38,3 +35,6 @@ More information on each study and the replication effort can be found at the re
 ### Etcetera
 * When not running [regressions](http://veloviewer.com/athlete/2135375/).<br>
 My current Eddington number is 82 (43 for the current year). 
+* [CV](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf?dl=0)<br>
+
+*Contact:* stijn.vanweezel.2011 [at] live.rhul.ac.uk
