@@ -15,6 +15,7 @@ A presentation of this work can be found here [here](https://mikespagat.wordpres
 ### In limbo
 * [Commodity prices, growth, and civil war revisited](http://ssrn.com/abstract=2688476)
 * [When a tree falls in the forest: Conflict event size and media reporting ](http://ssrn.com/abstract=2805949)
+* [Short term effects of conflict on foreign aid allocation in Uganda](http://ssrn.com/abstract=2843797)
 
 ### Replications
 Below are a number of studies that I have replicated (often the result of testing things in R). 
@@ -34,7 +35,7 @@ More information on each study and the replication effort can be found at the re
 
 ### Etcetera
 * When not running [regressions](http://veloviewer.com/athlete/2135375/).<br>
-My current Eddington number is 82 (43 for the current year). 
+My current Eddington number is 82 (51 for the current year). 
 * [CV](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf?dl=0)<br>
 
-*Contact:* stijn.vanweezel.2011 [at] live.rhul.ac.uk
+*Contact:* stijn.vanweezel [at] ucd.ie
