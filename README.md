@@ -1,7 +1,7 @@
 ### Publications
-* Food imports, international prices, and violence in Africa, [Oxford Economic Papers](http://oep.oxfordjournals.org/content/68/3/758.abstract), 2016 <br>
+* Food imports, international prices, and violence in Africa, [Oxford Economic Papers](http://oep.oxfordjournals.org/content/68/3/758.abstract) (2016) <br>
 [Data + code](https://github.com/CommonEconomist/Publications/tree/master/OEP_2016)
-* Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010, [Defence and Peace Economics](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489), 2015 <br>
+* Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010, [Defence and Peace Economics](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489) (2015) <br>
 [Data + code](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Current projects
