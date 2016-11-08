@@ -5,6 +5,9 @@
 [Data + code](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Current projects
+* Forecasting local violence in Sub-Sahara Africa
+* Climate change and conflict in the Horn of Africa (_Working paper coming soon_)
+* Droughts and communal conflict in Nigeria (_Working paper coming soon_)
 * Modern wars: Fundamental patterns and predictions (_with Neil Johnson, Michael Spagat_). <br> 
 A presentation of this work can be found here [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/), while part of the project has been covered in the [media](http://projects.wionews.com/terrormaths/index.html). 
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
@@ -33,9 +36,13 @@ More information on each study and the replication effort can be found at the re
 * ["Partisan politics in the global economy"](https://github.com/CommonEconomist/Replications/tree/master/1998_Garrett)
 * ["Location, location, location: An MCMC approach to modeling the spatial context of war and peace"](https://github.com/CommonEconomist/Replications/tree/master/2002_Ward_Gleditsch)
 
+#### Teaching material
+* [Data analysis for economists](https://github.com/CommonEconomist/Teaching/tree/master/data_analysis) (2016-2017, University College Dublin)
+* [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade) (2014-2015, Royal Holloway)
+
 ### Etcetera
 * When not running [regressions](http://veloviewer.com/athlete/2135375/).<br>
-My current Eddington number is 82 (51 for the current year). 
+My current Eddington number is 82 (53 for current year). 
 * [CV](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf?dl=0)<br>
 
 *Contact:* stijn.vanweezel [at] ucd.ie
