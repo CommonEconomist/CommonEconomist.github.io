@@ -36,7 +36,7 @@ More information on each study and the replication effort can be found at the re
 * ["Partisan politics in the global economy"](https://github.com/CommonEconomist/Replications/tree/master/1998_Garrett)
 * ["Location, location, location: An MCMC approach to modeling the spatial context of war and peace"](https://github.com/CommonEconomist/Replications/tree/master/2002_Ward_Gleditsch)
 
-#### Teaching material
+### Teaching material
 * [Data analysis for economists](https://github.com/CommonEconomist/Teaching/tree/master/data_analysis) (2016-2017, University College Dublin)
 * [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade) (2014-2015, Royal Holloway)
 
