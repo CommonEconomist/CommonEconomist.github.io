@@ -6,8 +6,8 @@
 
 ### Current projects
 * Forecasting local violence in Sub-Sahara Africa
-* Climate change and conflict in the Horn of Africa (_Working paper coming soon_)
-* Droughts and communal conflict in Nigeria (_Working paper coming soon_)
+* [Communal Violence in the Horn of Africa Following the 1998 El Niño](https://ssrn.com/abstract=2880526) 
+* [Short Term Effects of Drought on Communal Conflict in Nigeria](https://ssrn.com/abstract=2880540)
 * Modern wars: Fundamental patterns and predictions (_with Neil Johnson, Michael Spagat_). <br> 
 A presentation of this work can be found here [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/), while part of the project has been covered in the [media](http://projects.wionews.com/terrormaths/index.html). 
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
@@ -16,12 +16,12 @@ A presentation of this work can be found here [here](https://mikespagat.wordpres
 * Violent deaths in Iraq (_with Michael Spagat_)
 
 ### In limbo
-* [Commodity prices, growth, and civil war revisited](http://ssrn.com/abstract=2688476)
 * [When a tree falls in the forest: Conflict event size and media reporting ](http://ssrn.com/abstract=2805949)
+* [Commodity prices, growth, and civil war revisited](http://ssrn.com/abstract=2688476)
 * [Short term effects of conflict on foreign aid allocation in Uganda](http://ssrn.com/abstract=2843797)
 
 ### Replications
-Below are a number of studies that I have replicated (often the result of testing things in R). 
+Below are a number of studies that I have replicated (often the result of testing things in R or just procrastination). 
 More information on each study and the replication effort can be found at the respective page.
 
 * ["Mortality in Iraq associated with the 2003–2011 war and occupation"](https://github.com/CommonEconomist/Replications/tree/master/2013_Hagopian_et_al)
