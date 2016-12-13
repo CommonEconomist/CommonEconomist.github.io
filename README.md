@@ -1,19 +1,19 @@
 ### Publications
 * Food imports, international prices, and violence in Africa, [Oxford Economic Papers](http://oep.oxfordjournals.org/content/68/3/758.abstract) (2016) <br>
-[Data + code](https://github.com/CommonEconomist/Publications/tree/master/OEP_2016)
+[Replication files](https://github.com/CommonEconomist/Publications/tree/master/OEP_2016)
 * Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010, [Defence and Peace Economics](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489) (2015) <br>
-[Data + code](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
+[Replication files](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Current projects
 * Forecasting local violence in Sub-Sahara Africa
 * [Communal Violence in the Horn of Africa Following the 1998 El Niño](https://ssrn.com/abstract=2880526) 
 * [Short Term Effects of Drought on Communal Conflict in Nigeria](https://ssrn.com/abstract=2880540)
-* Modern wars: Fundamental patterns and predictions (_with Neil Johnson, Michael Spagat_). <br> 
+* Modern wars: Fundamental patterns and predictions (with Neil Johnson, Michael Spagat). <br> 
 A presentation of this work can be found here [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/), while part of the project has been covered in the [media](http://projects.wionews.com/terrormaths/index.html). 
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
-* [Half a million excess deaths in the Iraq war: Terms and conditions may apply](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (_with Michael Spagat_)
+* [Half a million excess deaths in the Iraq war: Terms and conditions may apply](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (with Michael Spagat)
 * [Climate-conflict in Sub-Saharan Africa: Examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
-* Violent deaths in Iraq (_with Michael Spagat_)
+* Violent deaths in Iraq (with Michael Spagat)
 
 ### In limbo
 * [When a tree falls in the forest: Conflict event size and media reporting ](http://ssrn.com/abstract=2805949)
