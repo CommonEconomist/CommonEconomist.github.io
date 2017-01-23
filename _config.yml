@@ -1,0 +1,8 @@
+title: Stijn van Weezel
+description: 
+google_analytics: "UA-55715082-1 "
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
