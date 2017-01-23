@@ -37,12 +37,13 @@ More information on each study and the replication effort can be found at the re
 * ["Location, location, location: An MCMC approach to modeling the spatial context of war and peace"](https://github.com/CommonEconomist/Replications/tree/master/2002_Ward_Gleditsch)
 
 ### Teaching material
+* [Advanced Macroeconomics](https://github.com/CommonEconomist/Teaching/tree/master/advanced_macroeconomics) (2016-2017, University College Dublin)
 * [Data analysis for economists](https://github.com/CommonEconomist/Teaching/tree/master/data_analysis) (2016-2017, University College Dublin)
 * [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade) (2014-2015, Royal Holloway)
 
 ### Etcetera
 * When not running [regressions](http://veloviewer.com/athlete/2135375/).<br>
-My current Eddington number is 82 (53 for current year). 
+My current Eddington number is 82 (4 for current year). 
 * [CV](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf?dl=0)<br>
 
 *Contact:* stijn.vanweezel [at] ucd.ie
