@@ -5,6 +5,7 @@
 [Replication files](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Current projects
+* Estimating the Effect of Conflict on Food Supply at the National Level
 * Forecasting local violence in Sub-Sahara Africa
 * [Communal Violence in the Horn of Africa Following the 1998 El Niño](https://ssrn.com/abstract=2880526) 
 * [Short Term Effects of Drought on Communal Conflict in Nigeria](https://ssrn.com/abstract=2880540)
@@ -12,10 +13,9 @@
 A presentation of this work can be found here [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/), while part of the project has been covered in the [media](http://projects.wionews.com/terrormaths/index.html). 
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 * [Half a million excess deaths in the Iraq war: Terms and conditions may apply](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (with Michael Spagat)
-* [Climate-conflict in Sub-Saharan Africa: Examining predictive power](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550228)
-* Violent deaths in Iraq (with Michael Spagat)
 
 ### In limbo
+* [Climate-conflict in Sub-Saharan Africa: Examining predictive power](http://papers.ssrn.com/abstract_id=2550228)
 * [When a tree falls in the forest: Conflict event size and media reporting ](http://ssrn.com/abstract=2805949)
 * [Commodity prices, growth, and civil war revisited](http://ssrn.com/abstract=2688476)
 * [Short term effects of conflict on foreign aid allocation in Uganda](http://ssrn.com/abstract=2843797)
@@ -37,13 +37,15 @@ More information on each study and the replication effort can be found at the re
 * ["Location, location, location: An MCMC approach to modeling the spatial context of war and peace"](https://github.com/CommonEconomist/Replications/tree/master/2002_Ward_Gleditsch)
 
 ### Teaching material
-* [Advanced Macroeconomics](https://github.com/CommonEconomist/Teaching/tree/master/advanced_macroeconomics) (2016-2017, University College Dublin)
-* [Data analysis for economists](https://github.com/CommonEconomist/Teaching/tree/master/data_analysis) (2016-2017, University College Dublin)
-* [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade) (2014-2015, Royal Holloway)
+* [European Economy](https://github.com/CommonEconomist/Teaching/tree/master/european_economy) (2016/17, University College Dublin)
+* [Statistics for Economics](https://github.com/CommonEconomist/Teaching/tree/master/statistics_economics) (2016/17, University College Dublin)
+* [Advanced Macroeconomics](https://github.com/CommonEconomist/Teaching/tree/master/advanced_macroeconomics) (2016/17, University College Dublin)
+* [Data analysis for economists](https://github.com/CommonEconomist/Teaching/tree/master/data_analysis) (2016/17, University College Dublin)
+* [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade) (2014/15, Royal Holloway)
 
 ### Etcetera
 * When not running [regressions](http://veloviewer.com/athlete/2135375/).<br>
-My current Eddington number is 82 (4 for current year). 
+My current Eddington number is 82 (19 for current year). 
 * [CV](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf?dl=0)<br>
 
 *Contact:* stijn.vanweezel [at] ucd.ie
