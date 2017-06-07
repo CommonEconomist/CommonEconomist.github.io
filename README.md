@@ -1,13 +1,16 @@
 ### Publications
-* Food imports, international prices, and violence in Africa, [Oxford Economic Papers](http://oep.oxfordjournals.org/content/68/3/758.abstract) (2016) <br>
+* Food imports, international prices, and violence in Africa <br>
+[Oxford Economic Papers](http://oep.oxfordjournals.org/content/68/3/758.abstract) (2016) <br>
 [Replication files](https://github.com/CommonEconomist/Publications/tree/master/OEP_2016)
-* Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010, [Defence and Peace Economics](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489) (2015) <br>
+
+* Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010<br>
+[Defence and Peace Economics](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489) (2015) <br>
 [Replication files](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Current projects
-* Estimating the Effect of Conflict on Food Supply at the National Level
-* Forecasting local violence in Sub-Sahara Africa
-* [Communal Violence in the Horn of Africa Following the 1998 El Niño](https://ssrn.com/abstract=2880526) 
+* [Food security and armed conflict: a cross-country analysis](https://ssrn.com/abstract=2934177)
+* [Communal Violence in the Horn of Africa Following the 1998 El Niño](https://ssrn.com/abstract=2880526)
+* Medium-term forecasts of violent armed conflict risk at the subnational level in Africa 
 * [Short Term Effects of Drought on Communal Conflict in Nigeria](https://ssrn.com/abstract=2880540)
 * Modern wars: Fundamental patterns and predictions (with Neil Johnson, Michael Spagat). <br> 
 A presentation of this work can be found here [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/), while part of the project has been covered in the [media](http://projects.wionews.com/terrormaths/index.html). 
@@ -45,7 +48,7 @@ More information on each study and the replication effort can be found at the re
 
 ### Etcetera
 * When not running [regressions](http://veloviewer.com/athlete/2135375/).<br>
-My current Eddington number is 82 (19 for current year). 
+My current Eddington number, or h-index if you want, is 87.
 * [CV](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf?dl=0)<br>
 
 *Contact:* stijn.vanweezel [at] ucd.ie
