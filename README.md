@@ -14,16 +14,19 @@
 * [Food security and armed conflict: a cross-country analysis](https://ssrn.com/abstract=2934177)
 * [Climate change and communal violence in Ethiopia and Kenya](https://ssrn.com/abstract=2880526)
 * Medium-term forecasts of violent armed conflict risk at the subnational level in Africa 
-* [Short term effects of drought on communal conflict in nigeria](https://ssrn.com/abstract=2880540)
+* [Short term effects of drought on communal conflict in Nigeria](https://ssrn.com/abstract=2880540)
 * Modern wars: fundamental patterns and predictions (with Neil Johnson, Michael Spagat). <br> 
 A presentation of this work can be found here [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/), while part of the project has been covered in the [media](http://projects.wionews.com/terrormaths/index.html). 
-* [Civil conflict and foreign aid allocation in Uganda](http://ssrn.com/abstract=2843797)
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 * [Half a million excess deaths in the Iraq war: Terms and conditions may apply](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (with Michael Spagat)
 
+### Research notes
+* [When a tree falls in the forest: reporting bias in conflict event data](http://ssrn.com/abstract=2805949)
+* [Civil conflict and foreign aid allocation in Uganda](http://ssrn.com/abstract=2843797)
+
 ### In limbo
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/abstract_id=2550228)
-* [When a tree falls in the forest: conflict event size and media reporting ](http://ssrn.com/abstract=2805949)
+
 
 ### Replications
 Below are a number of studies that I have replicated (often the result of testing things in R or just procrastination). 
