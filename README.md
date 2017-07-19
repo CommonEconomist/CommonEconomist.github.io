@@ -11,7 +11,6 @@
 [Replication files](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
 
 ### Current projects
-* [Food security and armed conflict: a cross-country analysis](https://ssrn.com/abstract=2934177)
 * [Climate change and communal violence in Ethiopia and Kenya](https://ssrn.com/abstract=2880526)
 * Medium-term forecasts of violent armed conflict risk at the subnational level in Africa 
 * [Short term effects of drought on communal conflict in Nigeria](https://ssrn.com/abstract=2880540)
@@ -25,6 +24,7 @@ A presentation of this work can be found here [here](https://mikespagat.wordpres
 * [Civil conflict and foreign aid allocation in Uganda](http://ssrn.com/abstract=2843797)
 
 ### In limbo
+* [Food security and armed conflict: a cross-country analysis](https://ssrn.com/abstract=2934177)
 * [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/abstract_id=2550228)
 
 
