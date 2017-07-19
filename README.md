@@ -1,5 +1,5 @@
 *Contact:* stijn.vanweezel [at] ucd.ie <br>
-[CV](https://www.dropbox.com/s/g9393px23pe5ius/SvW_CV.pdf?dl=0)
+[CV](https://github.com/CommonEconomist/cv/raw/master/cv_svw.pdf)
 
 ### Publications
 * Food imports, international prices, and violence in Africa <br>
