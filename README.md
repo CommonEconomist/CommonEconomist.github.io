@@ -25,19 +25,18 @@ A presentation of this work can be found here [here](https://mikespagat.wordpres
 
 ### In limbo
 * [Food security and armed conflict: a cross-country analysis](https://ssrn.com/abstract=2934177)
-* [Climate-conflict in Sub-Saharan Africa: examining predictive power](http://papers.ssrn.com/abstract_id=2550228)
-
 
 ### Replications
 Below are a number of studies that I have replicated (often the result of testing things in R or just procrastination). 
-More information on each study and the replication effort can be found at the respective page.
+More information on each study and the replication effort can be found at the respective page. In some incidental cases I have written up the results of the replication (see links). 
 
 * ["Mortality in Iraq associated with the 2003–2011 war and occupation"](https://github.com/CommonEconomist/Replications/tree/master/2013_Hagopian_et_al)
-* ["Warming increases the risk of civil war in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2009_Burke_et_al)
+* ["Warming increases the risk of civil war in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2009_Burke_et_al) <br>
+Paper can be found [here](http://papers.ssrn.com/abstract_id=2550228) 
 * ["The legacy of historical conflict: Evidence from Africa"](https://github.com/CommonEconomist/Replications/tree/master/2014_Besley_Reynal-Querol)
 * ["Modest, secure, and informed: Successful development in conflict zones"](https://github.com/CommonEconomist/Replications/tree/master/2013_Berman_et_al)
 * ["International commodity prices, growth and the outbreak of civil war in Sub-Saharan Africa"](https://github.com/CommonEconomist/Replications/tree/master/2010_Bruckner_Ciccone)<br>
-This one has a working paper that can be found [here](http://ssrn.com/abstract=2688476)
+Paper can be found [here](http://ssrn.com/abstract=2688476)
 * ["Pattern in escalations in insurgent and terrorist activity"](https://github.com/CommonEconomist/Replications/tree/master/2011_Johnson_et_al)
 * ["Rising food prices, food price volatility, and social unrest"](https://github.com/CommonEconomist/Replications/tree/master/2015_Bellemare)
 * ["Climate change, rainfall, and social conflict in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2012_Hendrix_Salehyan)
@@ -55,5 +54,5 @@ This one has a working paper that can be found [here](http://ssrn.com/abstract=2
 
 ### Etcetera
 * When not running [regressions](https://www.strava.com/athletes/2135375).<br>
-My current Eddington number, or h-index if you want, is 88.
+Current Eddington number, or h-index if you want, is 89.
 
