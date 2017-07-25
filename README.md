@@ -13,7 +13,7 @@ Defence and Peace Economics [(2015)](http://www.tandfonline.com/doi/full/10.1080
 ### Current projects
 * [Climate change and communal violence in Ethiopia and Kenya](https://ssrn.com/abstract=2880526)
 * Medium-term forecasts of violent armed conflict risk at the subnational level in Africa 
-* [Short term effects of drought on communal conflict in Nigeria](https://ssrn.com/abstract=2880540)
+* [Drought severity and communal conflict in Nigeria](https://ssrn.com/abstract=2880540)
 * Modern wars: fundamental patterns and predictions (with Neil Johnson, Michael Spagat). <br> 
 A presentation of this work can be found here [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/), while part of the project has been covered in the [media](http://projects.wionews.com/terrormaths/index.html). 
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
