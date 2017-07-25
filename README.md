@@ -49,7 +49,7 @@ Paper can be found [here](http://ssrn.com/abstract=2688476)
 * [European Economy](https://github.com/CommonEconomist/Teaching/tree/master/european_economy) (2016/17, University College Dublin)
 * [Statistics for Economics](https://github.com/CommonEconomist/Teaching/tree/master/statistics_economics) (2016/17, University College Dublin)
 * [Advanced Macroeconomics](https://github.com/CommonEconomist/Teaching/tree/master/advanced_macroeconomics) (2016/17, University College Dublin)
-* [Data analysis for economists](https://github.com/CommonEconomist/Teaching/tree/master/data_analysis) (2016/17, University College Dublin)
+* [Data analysis for Economists](https://github.com/CommonEconomist/Teaching/tree/master/data_analysis) (2016/17, University College Dublin)
 * [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade) (2014/15, Royal Holloway)
 
 ### Etcetera
