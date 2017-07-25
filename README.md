@@ -4,11 +4,11 @@
 ### Publications
 * Food imports, international prices, and violence in Africa <br>
 Oxford Economic Papers [(2016)](http://oep.oxfordjournals.org/content/68/3/758.abstract)<br>
-[Replication files](https://github.com/CommonEconomist/Publications/tree/master/OEP_2016)
+[Replication files](https://github.com/CommonEconomist/publications/tree/master/OEP_2016)
 
 * Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010<br>
 Defence and Peace Economics [(2015)](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489) <br>
-[Replication files](https://github.com/CommonEconomist/Publications/tree/master/DPE_2015)
+[Replication files](https://github.com/CommonEconomist/publications/tree/master/DPE_2015)
 
 ### Current projects
 * [Climate change and communal violence in Ethiopia and Kenya](https://ssrn.com/abstract=2880526)
@@ -30,27 +30,27 @@ A presentation of this work can be found here [here](https://mikespagat.wordpres
 Below are a number of studies that I have replicated (often the result of testing things in R or just procrastination). 
 More information on each study and the replication effort can be found at the respective page. In some incidental cases I have written up the results of the replication (see links). 
 
-* ["Mortality in Iraq associated with the 2003–2011 war and occupation"](https://github.com/CommonEconomist/Replications/tree/master/2013_Hagopian_et_al)
-* ["Warming increases the risk of civil war in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2009_Burke_et_al) <br>
+* ["Mortality in Iraq associated with the 2003–2011 war and occupation"](https://github.com/CommonEconomist/replications/tree/master/2013_Hagopian_et_al)
+* ["Warming increases the risk of civil war in Africa"](https://github.com/CommonEconomist/replications/tree/master/2009_Burke_et_al) <br>
 Paper can be found [here](http://papers.ssrn.com/abstract_id=2550228) 
-* ["The legacy of historical conflict: Evidence from Africa"](https://github.com/CommonEconomist/Replications/tree/master/2014_Besley_Reynal-Querol)
-* ["Modest, secure, and informed: Successful development in conflict zones"](https://github.com/CommonEconomist/Replications/tree/master/2013_Berman_et_al)
-* ["International commodity prices, growth and the outbreak of civil war in Sub-Saharan Africa"](https://github.com/CommonEconomist/Replications/tree/master/2010_Bruckner_Ciccone)<br>
+* ["The legacy of historical conflict: Evidence from Africa"](https://github.com/CommonEconomist/replications/tree/master/2014_Besley_Reynal-Querol)
+* ["Modest, secure, and informed: Successful development in conflict zones"](https://github.com/CommonEconomist/replications/tree/master/2013_Berman_et_al)
+* ["International commodity prices, growth and the outbreak of civil war in Sub-Saharan Africa"](https://github.com/CommonEconomist/replications/tree/master/2010_Bruckner_Ciccone)<br>
 Paper can be found [here](http://ssrn.com/abstract=2688476)
-* ["Pattern in escalations in insurgent and terrorist activity"](https://github.com/CommonEconomist/Replications/tree/master/2011_Johnson_et_al)
-* ["Rising food prices, food price volatility, and social unrest"](https://github.com/CommonEconomist/Replications/tree/master/2015_Bellemare)
-* ["Climate change, rainfall, and social conflict in Africa"](https://github.com/CommonEconomist/Replications/tree/master/2012_Hendrix_Salehyan)
-* ["Using power laws to estimate conflict size"](https://github.com/CommonEconomist/Replications/tree/master/2014_Friedman)
-* ["Partisan politics in the global economy"](https://github.com/CommonEconomist/Replications/tree/master/1998_Garrett)
-* ["Location, location, location: An MCMC approach to modeling the spatial context of war and peace"](https://github.com/CommonEconomist/Replications/tree/master/2002_Ward_Gleditsch)
-* ["Spatial Econometric Models of Cross-Sectional Interdependence in Political Science Panel and Time-Series-Cross-Section Data"](https://github.com/CommonEconomist/Replications/tree/master/2007_Franzese_Hays)
+* ["Pattern in escalations in insurgent and terrorist activity"](https://github.com/CommonEconomist/replications/tree/master/2011_Johnson_et_al)
+* ["Rising food prices, food price volatility, and social unrest"](https://github.com/CommonEconomist/replications/tree/master/2015_Bellemare)
+* ["Climate change, rainfall, and social conflict in Africa"](https://github.com/CommonEconomist/replications/tree/master/2012_Hendrix_Salehyan)
+* ["Using power laws to estimate conflict size"](https://github.com/CommonEconomist/replications/tree/master/2014_Friedman)
+* ["Partisan politics in the global economy"](https://github.com/CommonEconomist/replications/tree/master/1998_Garrett)
+* ["Location, location, location: An MCMC approach to modeling the spatial context of war and peace"](https://github.com/CommonEconomist/replications/tree/master/2002_Ward_Gleditsch)
+* ["Spatial Econometric Models of Cross-Sectional Interdependence in Political Science Panel and Time-Series-Cross-Section Data"](https://github.com/CommonEconomist/replications/tree/master/2007_Franzese_Hays)
 
 ### Teaching material
-* [European Economy](https://github.com/CommonEconomist/Teaching/tree/master/european_economy) (2016/17, University College Dublin)
-* [Statistics for Economics](https://github.com/CommonEconomist/Teaching/tree/master/statistics_economics) (2016/17, University College Dublin)
-* [Advanced Macroeconomics](https://github.com/CommonEconomist/Teaching/tree/master/advanced_macroeconomics) (2016/17, University College Dublin)
-* [Data analysis for Economists](https://github.com/CommonEconomist/Teaching/tree/master/data_analysis) (2016/17, University College Dublin)
-* [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade) (2014/15, Royal Holloway)
+* [European Economy](https://github.com/CommonEconomist/teaching/tree/master/european_economy) (2016/17, University College Dublin)
+* [Statistics for Economics](https://github.com/CommonEconomist/teaching/tree/master/statistics_economics) (2016/17, University College Dublin)
+* [Advanced Macroeconomics](https://github.com/CommonEconomist/teaching/tree/master/advanced_macroeconomics) (2016/17, University College Dublin)
+* [Data analysis for Economists](https://github.com/CommonEconomist/teaching/tree/master/data_analysis) (2016/17, University College Dublin)
+* [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade/rhul) (2014/15, Royal Holloway)
 
 ### Etcetera
 * When not running [regressions](https://www.strava.com/athletes/2135375).<br>
