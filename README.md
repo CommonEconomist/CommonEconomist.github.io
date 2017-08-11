@@ -2,8 +2,6 @@
 [CV](https://github.com/CommonEconomist/cv/raw/master/cv_svw.pdf)
 
 ### Publications
-* Half a million excess deaths in the Iraq war: Terms and conditions may apply, with Michael Spagat<br>
-Research and Politics (forthcoming)
 
 * Food imports, international prices, and violence in Africa <br>
 Oxford Economic Papers [(2016)](http://oep.oxfordjournals.org/content/68/3/758.abstract)<br>
@@ -19,6 +17,7 @@ Defence and Peace Economics [(2015)](http://www.tandfonline.com/doi/full/10.1080
 * [Drought severity and communal conflict in Nigeria](https://ssrn.com/abstract=2880540)
 * [Modern wars: fundamental patterns and predictions](https://www.royalholloway.ac.uk/economics/documents/pdf/seminars/conference-draft.pdf), with Neil Johnson, Michael Spagat <br> 
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
+* Half a million excess deaths in the Iraq war: Terms and conditions may apply, with Michael Spagat
 
 ### Research notes
 * [When a tree falls in the forest: reporting bias in conflict event data](http://ssrn.com/abstract=2805949)
