@@ -2,6 +2,9 @@
 [CV](https://github.com/CommonEconomist/cv/raw/master/cv_svw.pdf)
 
 ### Publications
+* Half a million excess deaths in the Iraq war: Terms and conditions may apply, with Michael Spagat<br>
+Research and Politics (forthcoming)
+
 * Food imports, international prices, and violence in Africa <br>
 Oxford Economic Papers [(2016)](http://oep.oxfordjournals.org/content/68/3/758.abstract)<br>
 [Replication files](https://github.com/CommonEconomist/publications/tree/master/OEP_2016)
@@ -14,10 +17,8 @@ Defence and Peace Economics [(2015)](http://www.tandfonline.com/doi/full/10.1080
 * [Climate change and communal violence in Ethiopia and Kenya](https://ssrn.com/abstract=2880526)
 * Medium-term forecasts of violent armed conflict risk at the subnational level in Africa 
 * [Drought severity and communal conflict in Nigeria](https://ssrn.com/abstract=2880540)
-* Modern wars: fundamental patterns and predictions (with Neil Johnson, Michael Spagat). <br> 
-A presentation of this work can be found here [here](https://mikespagat.wordpress.com/2016/03/31/predicting-the-size-distribution-of-violent-events-in-war/), while part of the project has been covered in the [media](http://projects.wionews.com/terrormaths/index.html). 
+* [Modern wars: fundamental patterns and predictions](https://www.royalholloway.ac.uk/economics/documents/pdf/seminars/conference-draft.pdf), with Neil Johnson, Michael Spagat <br> 
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
-* [Half a million excess deaths in the Iraq war: Terms and conditions may apply](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2664659) (with Michael Spagat)
 
 ### Research notes
 * [When a tree falls in the forest: reporting bias in conflict event data](http://ssrn.com/abstract=2805949)
