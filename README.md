@@ -3,6 +3,10 @@
 
 ### Publications
 
+* Half a Million Excess Deaths in the Iraq War: Terms and Conditions May Apply <br>
+Research & Politics (*forthcoming*)<br>
+[Replication files](https://github.com/CommonEconomist/publications/tree/master/RAP_2017)
+
 * Food imports, international prices, and violence in Africa <br>
 Oxford Economic Papers [(2016)](http://oep.oxfordjournals.org/content/68/3/758.abstract)<br>
 [Replication files](https://github.com/CommonEconomist/publications/tree/master/OEP_2016)
@@ -13,18 +17,19 @@ Defence and Peace Economics [(2015)](http://www.tandfonline.com/doi/full/10.1080
 
 ### Current projects
 * [Climate change and communal violence in Ethiopia and Kenya](https://ssrn.com/abstract=2880526)
-* Medium-term forecasts of violent armed conflict risk at the subnational level in Africa 
 * [Drought severity and communal conflict in Nigeria](https://ssrn.com/abstract=2880540)
 * [Modern wars: fundamental patterns and predictions](https://www.royalholloway.ac.uk/economics/documents/pdf/seminars/conference-draft.pdf), with Neil Johnson, Michael Spagat <br> 
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
-* Half a million excess deaths in the Iraq war: Terms and conditions may apply, with Michael Spagat
 
 ### Research notes
+*These are mainly the results of minor tests that I decided to write up*
 * [When a tree falls in the forest: reporting bias in conflict event data](http://ssrn.com/abstract=2805949)
 * [Civil conflict and foreign aid allocation in Uganda](http://ssrn.com/abstract=2843797)
 
 ### In limbo
+*Results of research projects that probably could have benefitted from some more love and attention.*
 * [Food security and armed conflict: a cross-country analysis](https://ssrn.com/abstract=2934177)
+* [Predicting Conflict Events in Africa at Subnational Level](https://ssrn.com/abstract=3019940)
 
 ### Replications
 Below are a number of studies that I have replicated (often the result of testing things in R or just procrastination). 
@@ -32,11 +37,11 @@ More information on each study and the replication effort can be found at the re
 
 * ["Mortality in Iraq associated with the 2003–2011 war and occupation"](https://github.com/CommonEconomist/replications/tree/master/2013_Hagopian_et_al)
 * ["Warming increases the risk of civil war in Africa"](https://github.com/CommonEconomist/replications/tree/master/2009_Burke_et_al) <br>
-Paper can be found [here](http://papers.ssrn.com/abstract_id=2550228) 
+Since I re-analysed this study I devoted a whole [working paper](http://papers.ssrn.com/abstract_id=2550228)  to it.
 * ["The legacy of historical conflict: Evidence from Africa"](https://github.com/CommonEconomist/replications/tree/master/2014_Besley_Reynal-Querol)
 * ["Modest, secure, and informed: Successful development in conflict zones"](https://github.com/CommonEconomist/replications/tree/master/2013_Berman_et_al)
 * ["International commodity prices, growth and the outbreak of civil war in Sub-Saharan Africa"](https://github.com/CommonEconomist/replications/tree/master/2010_Bruckner_Ciccone)<br>
-Paper can be found [here](http://ssrn.com/abstract=2688476)
+This study was replicated and re-analysied in R, a write up can be found [here](http://ssrn.com/abstract=2688476)
 * ["Pattern in escalations in insurgent and terrorist activity"](https://github.com/CommonEconomist/replications/tree/master/2011_Johnson_et_al)
 * ["Rising food prices, food price volatility, and social unrest"](https://github.com/CommonEconomist/replications/tree/master/2015_Bellemare)
 * ["Climate change, rainfall, and social conflict in Africa"](https://github.com/CommonEconomist/replications/tree/master/2012_Hendrix_Salehyan)
@@ -54,5 +59,5 @@ Paper can be found [here](http://ssrn.com/abstract=2688476)
 
 ### Etcetera
 * When not running [regressions](https://www.strava.com/athletes/2135375).<br>
-Current Eddington number, or h-index if you want, is 89.
+Current Eddington number, or h-index if you want, is 90.
 
