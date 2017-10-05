@@ -3,7 +3,7 @@
 
 ### Publications
 
-* Half a Million Excess Deaths in the Iraq War: Terms and Conditions May Apply <br>
+* Half a million excess deaths in the Iraq war: Terms and conditions may apply <br>
 Research & Politics (*forthcoming*)<br>
 [Replication files](https://github.com/CommonEconomist/publications/tree/master/RAP_2017)
 
@@ -29,7 +29,7 @@ Defence and Peace Economics [(2015)](http://www.tandfonline.com/doi/full/10.1080
 ### In limbo
 *Results of research projects that probably could have benefitted from some more love and attention.*
 * [Food security and armed conflict: a cross-country analysis](https://ssrn.com/abstract=2934177)
-* [Predicting Conflict Events in Africa at Subnational Level](https://ssrn.com/abstract=3019940)
+* [Predicting conflict events in Africa at subnational level](https://ssrn.com/abstract=3019940)
 
 ### Replications
 Below are a number of studies that I have replicated (often the result of testing things in R or just procrastination). 
@@ -48,13 +48,14 @@ This study was replicated and re-analysied in R, a write up can be found [here](
 * ["Using power laws to estimate conflict size"](https://github.com/CommonEconomist/replications/tree/master/2014_Friedman)
 * ["Partisan politics in the global economy"](https://github.com/CommonEconomist/replications/tree/master/1998_Garrett)
 * ["Location, location, location: An MCMC approach to modeling the spatial context of war and peace"](https://github.com/CommonEconomist/replications/tree/master/2002_Ward_Gleditsch)
-* ["Spatial Econometric Models of Cross-Sectional Interdependence in Political Science Panel and Time-Series-Cross-Section Data"](https://github.com/CommonEconomist/replications/tree/master/2007_Franzese_Hays)
+* ["Spatial econometric models of cross-sectional interdependence in political science panel and time-series-cross-section data"](https://github.com/CommonEconomist/replications/tree/master/2007_Franzese_Hays)
 
 ### Teaching material
-* [European Economy](https://github.com/CommonEconomist/teaching/tree/master/european_economy) (2016/17, University College Dublin)
-* [Statistics for Economics](https://github.com/CommonEconomist/teaching/tree/master/statistics_economics) (2016/17, University College Dublin)
-* [Advanced Macroeconomics](https://github.com/CommonEconomist/teaching/tree/master/advanced_macroeconomics) (2016/17, University College Dublin)
-* [Data analysis for Economists](https://github.com/CommonEconomist/teaching/tree/master/data_analysis) (2016/17, University College Dublin)
+* [International trade](https://github.com/CommonEconomist/teaching/tree/master/international_trade) (2017/18, University College Dublin)
+* [European economy](https://github.com/CommonEconomist/teaching/tree/master/european_economy) (2016/17, University College Dublin)
+* [Statistics for economics](https://github.com/CommonEconomist/teaching/tree/master/statistics_economics) (2016/17, University College Dublin)
+* [Advanced macroeconomics](https://github.com/CommonEconomist/teaching/tree/master/advanced_macroeconomics) (2016/17, University College Dublin)
+* [Data analysis for economists](https://github.com/CommonEconomist/teaching/tree/master/data_analysis) (2016/17, University College Dublin)
 * [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade/rhul) (2014/15, Royal Holloway)
 
 ### Etcetera
