@@ -51,12 +51,12 @@ This study was replicated and re-analysied in R, a write up can be found [here](
 * ["Spatial econometric models of cross-sectional interdependence in political science panel and time-series-cross-section data"](https://github.com/CommonEconomist/replications/tree/master/2007_Franzese_Hays)
 
 ### Teaching material
-* [International trade](https://github.com/CommonEconomist/teaching/tree/master/international_trade) (2017/18, University College Dublin)
-* [European economy](https://github.com/CommonEconomist/teaching/tree/master/european_economy) (2016/17, University College Dublin)
-* [Statistics for economics](https://github.com/CommonEconomist/teaching/tree/master/statistics_economics) (2016/17, University College Dublin)
-* [Advanced macroeconomics](https://github.com/CommonEconomist/teaching/tree/master/advanced_macroeconomics) (2016/17, University College Dublin)
-* [Data analysis for economists](https://github.com/CommonEconomist/teaching/tree/master/data_analysis) (2016/17, University College Dublin)
-* [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade/rhul) (2014/15, Royal Holloway)
+* [International trade](https://github.com/CommonEconomist/teaching/tree/master/international_trade), University College Dublin, 2017/18
+* [European economy](https://github.com/CommonEconomist/teaching/tree/master/european_economy), University College Dublin, 2017/17
+* [Statistics for economics](https://github.com/CommonEconomist/teaching/tree/master/statistics_economics), University College Dublin, 2016/17
+* [Advanced macroeconomics](https://github.com/CommonEconomist/teaching/tree/master/advanced_macroeconomics), University College Dublin, 2016/17
+* [Data analysis for economists](https://github.com/CommonEconomist/teaching/tree/master/data_analysis), University College Dublin, 2016/17
+* [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade/rhul), Royal Holloway, 2014/15
 
 ### Etcetera
 * When not running [regressions](https://www.strava.com/athletes/2135375).<br>
