@@ -4,7 +4,7 @@
 ### Publications
 
 * Half a million excess deaths in the Iraq war: Terms and conditions may apply <br>
-Research & Politics (*forthcoming*)<br>
+Research & Politics [(2017)](http://journals.sagepub.com/doi/full/10.1177/2053168017732642)<br>
 [Replication files](https://github.com/CommonEconomist/publications/tree/master/RAP_2017)
 
 * Food imports, international prices, and violence in Africa <br>
