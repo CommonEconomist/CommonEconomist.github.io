@@ -41,7 +41,7 @@ Since I re-analysed this study I devoted a whole [working paper](http://papers.s
 * ["The legacy of historical conflict: Evidence from Africa"](https://github.com/CommonEconomist/replications/tree/master/2014_Besley_Reynal-Querol)
 * ["Modest, secure, and informed: Successful development in conflict zones"](https://github.com/CommonEconomist/replications/tree/master/2013_Berman_et_al)
 * ["International commodity prices, growth and the outbreak of civil war in Sub-Saharan Africa"](https://github.com/CommonEconomist/replications/tree/master/2010_Bruckner_Ciccone)<br>
-This study was replicated and re-analysied in R, a write up can be found [here](http://ssrn.com/abstract=2688476)
+This study was replicated and re-analysed in R, a write up can be found [here](http://ssrn.com/abstract=2688476)
 * ["Pattern in escalations in insurgent and terrorist activity"](https://github.com/CommonEconomist/replications/tree/master/2011_Johnson_et_al)
 * ["Rising food prices, food price volatility, and social unrest"](https://github.com/CommonEconomist/replications/tree/master/2015_Bellemare)
 * ["Climate change, rainfall, and social conflict in Africa"](https://github.com/CommonEconomist/replications/tree/master/2012_Hendrix_Salehyan)
@@ -49,6 +49,14 @@ This study was replicated and re-analysied in R, a write up can be found [here](
 * ["Partisan politics in the global economy"](https://github.com/CommonEconomist/replications/tree/master/1998_Garrett)
 * ["Location, location, location: An MCMC approach to modeling the spatial context of war and peace"](https://github.com/CommonEconomist/replications/tree/master/2002_Ward_Gleditsch)
 * ["Spatial econometric models of cross-sectional interdependence in political science panel and time-series-cross-section data"](https://github.com/CommonEconomist/replications/tree/master/2007_Franzese_Hays)
+* ["The waning of the Little Ice Age: climate Change in early modern Europe"](https://github.com/CommonEconomist/replications/blob/master/2014_Kelly_O_Grada/little_ice_age.R)
+* ["Taking time seriously"](https://github.com/CommonEconomist/replications/tree/master/2008_de_Boef_Keele)
+* ["Not all oil price shocks are alike"](https://github.com/CommonEconomist/replications/blob/master/2009_Killian/estimate_var.R)
+* ["Vector Autoregressions"](https://github.com/CommonEconomist/replications/tree/master/2001_Stock_Watson)
+* ["The economic costs of conflict: A case study of the Basque Country"](https://github.com/CommonEconomist/replications/tree/master/2011_Abadie_et_al)
+* ["Improving predictions using ensemble Bayesian model averaging"](https://github.com/CommonEconomist/replications/tree/master/2012_Montgomory_et_al)
+
+
 
 ### Teaching material
 * [International trade](https://github.com/CommonEconomist/teaching/tree/master/international_trade), University College Dublin, 2017/18
