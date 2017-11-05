@@ -17,7 +17,6 @@ Defence and Peace Economics [(2015)](http://www.tandfonline.com/doi/full/10.1080
 
 ### Current projects
 * [Climate change and communal violence in Ethiopia and Kenya](https://ssrn.com/abstract=2880526)
-* [Drought severity and communal conflict in Nigeria](https://ssrn.com/abstract=2880540)
 * [Modern wars: fundamental patterns and predictions](https://www.royalholloway.ac.uk/economics/documents/pdf/seminars/conference-draft.pdf), with Neil Johnson, Michael Spagat <br> 
 * [A spatial analysis of the effect of foreign aid in conflict areas](http://ssrn.com/abstract=2450867)
 
@@ -30,6 +29,7 @@ Defence and Peace Economics [(2015)](http://www.tandfonline.com/doi/full/10.1080
 *Results of research projects that probably could have benefitted from some more love and attention.*
 * [Food security and armed conflict: a cross-country analysis](https://ssrn.com/abstract=2934177)
 * [Predicting conflict events in Africa at subnational level](https://ssrn.com/abstract=3019940)
+* [Drought severity and communal conflict in Nigeria](https://ssrn.com/abstract=2880540)
 
 ### Replications
 Below are a number of studies that I have replicated (often the result of testing things in R or just procrastination). 
@@ -57,10 +57,9 @@ This study was replicated and re-analysed in R, a write up can be found [here](h
 * ["Improving predictions using ensemble Bayesian model averaging"](https://github.com/CommonEconomist/replications/tree/master/2012_Montgomory_et_al)
 
 
-
 ### Teaching material
 * [International trade](https://github.com/CommonEconomist/teaching/tree/master/international_trade), University College Dublin, 2017/18
-* [European economy](https://github.com/CommonEconomist/teaching/tree/master/european_economy), University College Dublin, 2017/17
+* [European economy](https://github.com/CommonEconomist/teaching/tree/master/european_economy), University College Dublin, 2016/17
 * [Statistics for economics](https://github.com/CommonEconomist/teaching/tree/master/statistics_economics), University College Dublin, 2016/17
 * [Advanced macroeconomics](https://github.com/CommonEconomist/teaching/tree/master/advanced_macroeconomics), University College Dublin, 2016/17
 * [Data analysis for economists](https://github.com/CommonEconomist/teaching/tree/master/data_analysis), University College Dublin, 2016/17
