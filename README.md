@@ -13,16 +13,11 @@
 [[text](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)] [[data+code](https://github.com/CommonEconomist/publications/tree/master/DPE_2015)]
 
 ### Working papers
-1. **Predicting conflict events in Africa at subnational level**<br>
-[[ssrn](https://ssrn.com/abstract=3019940)]
-2. **Climate change and communal violence in Ethiopia and Kenya** <br>
-[[ssrn](https://ssrn.com/abstract=2880526)]
-3. **The effect of civil war violence on aid allocations in Uganda**<br>
-[[ssrn](https://ssrn.com/abstract=2843797)]
-4. **Drought severity and communal conflict in Nigeria**<br>
-[[ssrn]( https://ssrn.com/abstract=2880540)]
-5. **Mostly Harmless? A Subnational Analysis of the Aid-Conflict Nexus**<br>
-[[ssrn](https://ssrn.com/abstract=2450867)]
+1. **Predicting conflict events in Africa at subnational level** [[ssrn](https://ssrn.com/abstract=3019940)]
+2. **Climate change and communal violence in Ethiopia and Kenya** [[ssrn](https://ssrn.com/abstract=2880526)]
+3. **The effect of civil war violence on aid allocations in Uganda** [[ssrn](https://ssrn.com/abstract=2843797)]
+4. **Drought severity and communal conflict in Nigeria** [[ssrn]( https://ssrn.com/abstract=2880540)]
+5. **Mostly Harmless? A Subnational Analysis of the Aid-Conflict Nexus** [[ssrn](https://ssrn.com/abstract=2450867)]
 
 
 ### Current projects
@@ -37,10 +32,8 @@ with Michael Spagat
 
 ### In limbo
 *Results of research projects that probably could have benefitted from some more love and attention.*
-* When a tree falls in the forest: reporting bias in conflict event data <br>
-[ssrn](http://ssrn.com/abstract=2805949)
-* **Food security and armed conflict: A cross-country analysis**<br>
-[ssrn](https://ssrn.com/abstract=2934177)
+* **When a tree falls in the forest: reporting bias in conflict event data** [ssrn](http://ssrn.com/abstract=2805949)
+* **Food security and armed conflict: A cross-country analysis** [ssrn](https://ssrn.com/abstract=2934177)
 
 ### Replications
 Below are a number of studies that I have replicated, often the result of testing things in R, or just procrastination. 
