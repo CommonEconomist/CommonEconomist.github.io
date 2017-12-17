@@ -32,8 +32,8 @@ with Michael Spagat
 
 ### In limbo
 *Results of research projects that probably could have benefitted from some more love and attention.*
-* **When a tree falls in the forest: reporting bias in conflict event data** [ssrn](http://ssrn.com/abstract=2805949)
-* **Food security and armed conflict: A cross-country analysis** [ssrn](https://ssrn.com/abstract=2934177)
+* **When a tree falls in the forest: reporting bias in conflict event data** [[ssrn](http://ssrn.com/abstract=2805949)]
+* **Food security and armed conflict: A cross-country analysis** [[ssrn](https://ssrn.com/abstract=2934177)]
 
 ### Replications
 Below are a number of studies that I have replicated, often the result of testing things in R, or just procrastination. 
