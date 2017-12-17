@@ -17,7 +17,7 @@
 2. **Climate change and communal violence in Ethiopia and Kenya** [[ssrn](https://ssrn.com/abstract=2880526)]
 3. **The effect of civil war violence on aid allocations in Uganda** [[ssrn](https://ssrn.com/abstract=2843797)]
 4. **Drought severity and communal conflict in Nigeria** [[ssrn]( https://ssrn.com/abstract=2880540)]
-5. **Mostly Harmless? A Subnational Analysis of the Aid-Conflict Nexus** [[ssrn](https://ssrn.com/abstract=2450867)]
+5. **Mostly Harmless? A subnational analysis of the aid-conflict nexus** [[ssrn](https://ssrn.com/abstract=2450867)]
 
 
 ### Current projects
@@ -32,7 +32,7 @@ with Michael Spagat
 
 ### In limbo
 *Results of research projects that probably could have benefitted from some more love and attention.*
-* **When a tree falls in the forest: reporting bias in conflict event data** [[ssrn](http://ssrn.com/abstract=2805949)]
+* **When a tree falls in the forest: Reporting bias in conflict event data** [[ssrn](http://ssrn.com/abstract=2805949)]
 * **Food security and armed conflict: A cross-country analysis** [[ssrn](https://ssrn.com/abstract=2934177)]
 
 ### Replications
