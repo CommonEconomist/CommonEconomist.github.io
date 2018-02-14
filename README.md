@@ -34,8 +34,6 @@ with Michael Spagat
 *Results of research projects that probably could have benefitted from some more love and attention.*
 * **When a tree falls in the forest: Reporting bias in conflict event data** [[ssrn](http://ssrn.com/abstract=2805949)]
 * **Food security and armed conflict: A cross-country analysis** [[ssrn](https://ssrn.com/abstract=2934177)]
-<br><br>
-#### [**Replications**](https://github.com/CommonEconomist/replications)
 
 ### Teaching 
 
@@ -50,5 +48,6 @@ with Michael Spagat
 * [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade/rhul), RHUL.
 
 ### Etcetera
+* [Replications](https://github.com/CommonEconomist/replications)
 * When not running [regressions](https://www.strava.com/athletes/2135375).<br>
 Current Eddington number, or h-index if you want, is 90.
