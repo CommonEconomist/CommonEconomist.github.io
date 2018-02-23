@@ -48,6 +48,7 @@ with Michael Spagat
 * [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade/rhul), RHUL.
 
 ### Etcetera
-* [Replications](https://github.com/CommonEconomist/replications)
 * When not running [regressions](https://www.strava.com/athletes/2135375).<br>
-Current Eddington number, or h-index if you want, is 90.
+Current Eddington number: **90**
+* [Replication, replication, replication](https://github.com/CommonEconomist/replications)<br>
+See also [How to make replication the norm](https://www.nature.com/articles/d41586-018-02108-9)
