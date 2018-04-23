@@ -16,7 +16,7 @@ Follow up: **Terms and conditions till apply: A rejoinder to Hagopian et al.**, 
 ### Under revision
 1. **Mostly Harmless? A subnational analysis of the aid-conflict nexus** [[ssrn](https://ssrn.com/abstract=2450867)]
 2. **Climate change and communal violence in Ethiopia and Kenya** [[ssrn](https://ssrn.com/abstract=2880526)]
-3. **Modern wars: fundamental patterns and predictions**[[PDF](https://www.ucd.ie/t4cms/WP17_21.pdf)] <br>
+3. **Modern wars: fundamental patterns and predictions** [[pdf](https://www.ucd.ie/t4cms/WP17_21.pdf)] <br>
 with N. Johnson and M. Spagat. 
 
 ### Current projects
