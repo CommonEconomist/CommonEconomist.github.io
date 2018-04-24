@@ -23,16 +23,16 @@ with N. Johnson and M. Spagat.
 1. **Predicting conflict events in Africa at subnational level** [[ssrn](https://ssrn.com/abstract=3019940)]
 2. **Drought severity and communal conflict in Nigeria** [[ssrn]( https://ssrn.com/abstract=2880540)]
 3. **The link between refugees and environmental degradation in Africa** <br>
-with J-F. and V. Mueller.
+with J-F. Maystadt and V. Mueller.
 4. **Estimating war-related excess mortality**<br>
-with M. Spagat (working paper coming soon)
+with M. Spagat (working paper coming soon-ish)
 5. **War decline since the Second World War**<br>
 with M. (working paper coming soon)
 6. **Data fabrication in survey data from Iraq**<br>
 with M. Spagat
 
 ### In limbo
-*Results of research projects that probably could have benefitted from some more love and attention.*
+*Results of research projects that probably could have benefitted from some more love and attention. Call it productive failures*
 * **When a tree falls in the forest: Reporting bias in conflict event data** [[ssrn](http://ssrn.com/abstract=2805949)]
 * **Food security and armed conflict: A cross-country analysis** [[ssrn](https://ssrn.com/abstract=2934177)]<br>
 Served as input for FAO report on [conflict and food security](http://www.fao.org/3/a-i7821e.pdf).
@@ -57,4 +57,4 @@ Current Eddington number: **90**
 See also [How to make replication the norm](https://www.nature.com/articles/d41586-018-02108-9)
 
 
-*Last update:* 2018-04-23
+*Last update:* 2018-04-24
