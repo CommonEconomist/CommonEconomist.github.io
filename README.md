@@ -14,15 +14,15 @@ Follow up: **Terms and conditions till apply: A rejoinder to Hagopian et al.**, 
 [[paper](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)] [[data+code](https://github.com/CommonEconomist/publications/tree/master/DPE_2015)]
 
 ### Under revision
-1. **Mostly Harmless? A subnational analysis of the aid-conflict nexus** [[ssrn](https://ssrn.com/abstract=2450867)]
-2. **Climate change and communal violence in Ethiopia and Kenya** [[ssrn](https://ssrn.com/abstract=2880526)]
-3. **Modern wars: fundamental patterns and predictions** [[pdf](https://www.ucd.ie/t4cms/WP17_21.pdf)] <br>
+1. **Mostly Harmless? A subnational analysis of the aid-conflict nexus** [[pdf](https://www.ucd.ie/t4cms/WP17_28.pdf)]
+2. **Climate change and communal violence in Ethiopia and Kenya** [[pdf](https://econpapers.repec.org/paper/hicwpaper/241.htm)]
+3. **David versus Goliath: fundamental patterns and predictions in modern wars and terrorist campaigns** [[pdf](https://www.ucd.ie/t4cms/WP17_21.pdf)] <br>
 with N. Johnson and M. Spagat. 
 
-### Current projects
-1. **Predicting conflict events in Africa at subnational level** [[ssrn](https://ssrn.com/abstract=3019940)]
-2. **Drought severity and communal conflict in Nigeria** [[ssrn]( https://ssrn.com/abstract=2880540)]
-3. **The link between refugees and environmental degradation in Africa** <br>
+### Work in progress
+1. **Predicting conflict events in Africa at subnational level** [[pdf](https://ssrn.com/abstract=3019940)]
+2. **Drought severity and communal conflict in Nigeria** [[pdf](https://econpapers.repec.org/paper/hicwpaper/240.htm)]
+3. **Refugees and environmental degradation** <br>
 with J-F. Maystadt and V. Mueller.
 4. **Estimating war-related excess mortality**<br>
 with M. Spagat (working paper coming soon-ish)
@@ -33,22 +33,19 @@ with M. Spagat
 
 ### In limbo
 *Results of research projects that probably could have benefitted from some more love and attention. Call it productive failures*
-* **When a tree falls in the forest: Reporting bias in conflict event data** [[ssrn](http://ssrn.com/abstract=2805949)]
-* **Food security and armed conflict: A cross-country analysis** [[ssrn](https://ssrn.com/abstract=2934177)]<br>
+* **When a tree falls in the forest: Reporting bias in conflict event data** [[pdf](http://ssrn.com/abstract=2805949)]
+* **Food security and armed conflict: A cross-country analysis** [[pdf](https://ssrn.com/abstract=2934177)]<br>
 Served as input for FAO report on [conflict and food security](http://www.fao.org/3/a-i7821e.pdf).
-* **The effect of civil war violence on aid allocations in Uganda** [[ssrn](https://ssrn.com/abstract=2843797)]
+* **The effect of civil war violence on aid allocations in Uganda** [[pdf](https://ssrn.com/abstract=2843797)]
 
-### Teaching 
+### Course material 
 
-**Current**
-* [Advanced macroeconomics](https://github.com/CommonEconomist/teaching/tree/master/advanced_macroeconomics), UCD.
-* [European economy](https://github.com/CommonEconomist/teaching/tree/master/european_economy), UCD.
+* [Advanced macroeconomics](https://github.com/CommonEconomist/teaching/tree/master/advanced_macroeconomics) (M.Sc.)
+* [International trade](https://github.com/CommonEconomist/teaching/tree/master/international_trade)
+* [European economy](https://github.com/CommonEconomist/teaching/tree/master/european_economy)
+* [Statistics for economics](https://github.com/CommonEconomist/teaching/tree/master/statistics_economics)
+* [Data analysis for economists](https://github.com/CommonEconomist/teaching/tree/master/data_analysis)
 
-**Past**
-* [International trade](https://github.com/CommonEconomist/teaching/tree/master/international_trade), UCD.
-* [Statistics for economics](https://github.com/CommonEconomist/teaching/tree/master/statistics_economics), UCD.
-* [Data analysis for economists](https://github.com/CommonEconomist/teaching/tree/master/data_analysis), UCD.
-* [International trade](https://github.com/CommonEconomist/Teaching/tree/master/international_trade/rhul), RHUL.
 
 ### Etcetera
 * When not running [regressions](https://www.strava.com/athletes/2135375).<br>
@@ -57,4 +54,4 @@ Current Eddington number: **90**
 See also [How to make replication the norm](https://www.nature.com/articles/d41586-018-02108-9)
 
 
-*Last update:* 2018-04-24
+*Last update:* 2018-04-27
