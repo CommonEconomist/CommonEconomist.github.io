@@ -24,22 +24,18 @@ with N. Johnson and M. Spagat.
 2. **Drought severity and communal conflict in Nigeria** [[pdf](https://econpapers.repec.org/paper/hicwpaper/240.htm)]
 3. **Refugees and environmental degradation** <br>
 with J-F. Maystadt and V. Mueller.
-4. **Estimating war-related excess mortality**<br>
-with M. Spagat (working paper coming soon-ish)
+4. **Estimating indirect war deaths directly**[[paper](https://www.researchgate.net/publication/324123499_Estimating_Indirect_War_Deaths_Directly)]<br>
+with M. Spagat 
 5. **War decline since the Second World War**<br>
 with M. (working paper coming soon)
 6. **Data fabrication in survey data from Iraq**<br>
 with M. Spagat
 
 ### In limbo
-*Results of research projects that probably could have benefitted from some more love and attention. Call it productive failures*
-* **When a tree falls in the forest: Reporting bias in conflict event data** [[pdf](http://ssrn.com/abstract=2805949)]
 * **Food security and armed conflict: A cross-country analysis** [[pdf](https://ssrn.com/abstract=2934177)]<br>
 Served as input for FAO report on [conflict and food security](http://www.fao.org/3/a-i7821e.pdf).
-* **The effect of civil war violence on aid allocations in Uganda** [[pdf](https://ssrn.com/abstract=2843797)]
 
 ### Course material 
-
 * [Advanced macroeconomics](https://github.com/CommonEconomist/teaching/tree/master/advanced_macroeconomics) (M.Sc.)
 * [International trade](https://github.com/CommonEconomist/teaching/tree/master/international_trade)
 * [European economy](https://github.com/CommonEconomist/teaching/tree/master/european_economy)
