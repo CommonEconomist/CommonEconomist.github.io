@@ -1,17 +1,21 @@
 *Contact:* stijn.vanweezel [at] ucd.ie <br>
 [CV](https://github.com/CommonEconomist/cv/raw/master/cv_svw.pdf)
 
-### Publications
+### Publications, by topic
 
-1. **Half a million excess deaths in the Iraq war: Terms and conditions may apply**, Research & Politics, 2017.<br>
-[[paper](http://journals.sagepub.com/doi/full/10.1177/2053168017732642)] [[data+code](https://github.com/CommonEconomist/publications/tree/master/RAP_2017)] <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Follow up: **Terms and conditions still apply: A rejoinder to Hagopian et al.**, [[paper](http://journals.sagepub.com/doi/full/10.1177/2053168018757858)]
+#### Conflict determinants
+1. **Food imports, international prices, and violence in Africa**. [Oxford Economic Papers](https://doi.org/10.1093/oep/gpw015), 2016. <br>
+[[data+code](https://github.com/CommonEconomist/publications/tree/master/OEP_2016)]
 
-2. **Food imports, international prices, and violence in Africa**, Oxford Economic Papers, 2016. <br>
-[[paper](https://doi.org/10.1093/oep/gpw015)] [[data+code](https://github.com/CommonEconomist/publications/tree/master/OEP_2016)]
+2. **Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010**. [Defence and Peace Economics](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489), 2015. <br>
+[[data+code](https://github.com/CommonEconomist/publications/tree/master/DPE_2015)]
 
-3. **Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010**, Defence and Peace Economics, 2015. <br>
-[[paper](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489)] [[data+code](https://github.com/CommonEconomist/publications/tree/master/DPE_2015)]
+#### Excess mortality
+
+1. **Half a million excess deaths in the Iraq war: Terms and conditions may apply**, [Research & Politics](http://journals.sagepub.com/doi/full/10.1177/2053168017732642), 2017.<br>
+[[data+code](https://github.com/CommonEconomist/publications/tree/master/RAP_2017)] <br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Follow up: **Terms and conditions still apply: A rejoinder to Hagopian et al.**. [Research & Politics](http://journals.sagepub.com/doi/full/10.1177/2053168018757858), 2018
 
 ### Under revision
 1. **Mostly Harmless? A subnational analysis of the aid-conflict nexus** [[pdf](https://www.ucd.ie/t4cms/WP17_28.pdf)]
