@@ -5,7 +5,7 @@
 
 1. **Half a million excess deaths in the Iraq war: Terms and conditions may apply**, Research & Politics, 2017.<br>
 [[paper](http://journals.sagepub.com/doi/full/10.1177/2053168017732642)] [[data+code](https://github.com/CommonEconomist/publications/tree/master/RAP_2017)] <br><br>
-Follow up: **Terms and conditions till apply: A rejoinder to Hagopian et al.**, [[paper](http://journals.sagepub.com/doi/full/10.1177/2053168018757858)]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Follow up: **Terms and conditions till apply: A rejoinder to Hagopian et al.**, [[paper](http://journals.sagepub.com/doi/full/10.1177/2053168018757858)]
 
 2. **Food imports, international prices, and violence in Africa**, Oxford Economic Papers, 2016. <br>
 [[paper](https://doi.org/10.1093/oep/gpw015)] [[data+code](https://github.com/CommonEconomist/publications/tree/master/OEP_2016)]
