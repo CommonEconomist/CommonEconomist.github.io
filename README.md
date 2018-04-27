@@ -24,7 +24,7 @@ with N. Johnson and M. Spagat.
 2. **Drought severity and communal conflict in Nigeria** [[pdf](https://econpapers.repec.org/paper/hicwpaper/240.htm)]
 3. **Refugees and environmental degradation** <br>
 with J-F. Maystadt and V. Mueller.
-4. **Estimating indirect war deaths directly**[[paper](https://www.researchgate.net/publication/324123499_Estimating_Indirect_War_Deaths_Directly)]<br>
+4. **Estimating indirect war deaths directly** [[paper](https://www.researchgate.net/publication/324123499_Estimating_Indirect_War_Deaths_Directly)]<br>
 with M. Spagat 
 5. **War decline since the Second World War**<br>
 with M. (working paper coming soon)
