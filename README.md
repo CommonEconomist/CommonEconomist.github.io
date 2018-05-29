@@ -19,7 +19,7 @@
 ### Under revision
 
 1. [*Climate change and communal violence in Ethiopia and Kenya*](https://econpapers.repec.org/paper/hicwpaper/241.htm)
-2. [*David versus Goliath: fundamental patterns and predictions in modern wars and terrorist campaigns*](https://www.ucd.ie/t4cms/WP17_21.pdf)*<br>
+2. [*David versus Goliath: fundamental patterns and predictions in modern wars and terrorist campaigns*](https://www.ucd.ie/t4cms/WP17_21.pdf)<br>
 with N. Johnson and M. Spagat. 
 
 ### Work in progress
