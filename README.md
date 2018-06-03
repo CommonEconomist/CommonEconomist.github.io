@@ -33,6 +33,8 @@ with M. Spagat
 with M. (working paper coming soon)
 6. *Data fabrication in survey data from Iraq*<br>
 with M. Spagat
+7. [*Excess mortality and hurricane María*](http://dx.doi.org/10.13140/RG.2.2.14013.15849)<br>
+with M. Spagat
 
 ### In limbo
 * [*Food security and armed conflict: A cross-country analysis*](https://ssrn.com/abstract=2934177)<br>
@@ -54,4 +56,4 @@ Current Eddington number: *90*
 See also [How to make replication the norm](https://www.nature.com/articles/d41586-018-02108-9)
 
 
-*Last update:* 2018-05-25
+*Last update:* 2018-06-03
