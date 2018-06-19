@@ -30,7 +30,7 @@ with J-F. Maystadt and V. Mueller.
 4. [*Estimating indirect war deaths directly*](https://www.researchgate.net/publication/324123499_Estimating_Indirect_War_Deaths_Directly)<br>
 with M. Spagat 
 5. *On the decline of war*<br>
-with M. (working paper coming soon)
+with M. Spagat (working paper coming soon)
 6. *Data fabrication in survey data from Iraq*<br>
 with M. Spagat
 7. [*Excess mortality and hurricane María*](http://dx.doi.org/10.13140/RG.2.2.14013.15849)<br>
