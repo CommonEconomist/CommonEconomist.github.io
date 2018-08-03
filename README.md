@@ -56,4 +56,4 @@ Current Eddington number: *90*
 See also [How to make replication the norm](https://www.nature.com/articles/d41586-018-02108-9)
 
 
-*Last update:* 2018-06-03
+*Last update:* 2018-08-03
