@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
 ### Conflict determinants
 1. van Weezel, [(2016)](https://doi.org/10.1093/oep/gpw015), "Food imports, international prices, and violence in Africa"<br> 
 [[data+code](https://github.com/CommonEconomist/publications/tree/master/OEP_2016)]
