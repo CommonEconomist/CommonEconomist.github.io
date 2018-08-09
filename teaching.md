@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /TEACHING/
+permalink: /teaching/
 ---
 
 Teaching material for various courses
