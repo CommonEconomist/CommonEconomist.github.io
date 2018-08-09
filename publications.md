@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /PUBLICATIONS/
+permalink: /publications/
 ---
 
 ### Conflict determinants
