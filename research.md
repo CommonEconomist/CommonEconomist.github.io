@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /RESEARCH/
+permalink: /research/
 ---
 
 Overview of current research projects
