@@ -1,1 +1,5 @@
-New webpage (in progress)
+---
+layout: page
+title: Test
+permalink: /test/
+---
