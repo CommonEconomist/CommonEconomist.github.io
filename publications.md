@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Publications, by topic
 permalink: /publications/
 ---
 ### Conflict determinants
