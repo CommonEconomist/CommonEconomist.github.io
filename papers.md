@@ -1,3 +1,9 @@
+---
+layout: page
+title: Papers
+permalink: /papers/
+---
+
 *First posted 10 August 2018; last revised 10 August 2018*<br>
 
 This reference pager collects papers which provide a good overview of current academic research on conflict. In the future I will probably add sections on other topics I work on as well as on econometrics. Naturally this paper reflects my interests and there is a substantial selection bias, although I try to list what is currently the state-of-the-art, along with some seminal papers.<br>
