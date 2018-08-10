@@ -1,4 +1,4 @@
-*First posted 10 August 2018; last revised 10 August 2018<br>
+*First posted 10 August 2018; last revised 10 August 2018*<br>
 
 This reference pager collects papers which provide a good overview of current academic research on conflict. In the future I will probably add sections on other topics I work on as well as on econometrics. Naturally this paper reflects my interests and there is a substantial selection bias, although I try to list what is currently the state-of-the-art, along with some seminal papers.<br>
 
@@ -29,7 +29,7 @@ Suggestions are welcome.
 ### Decline of war
 * Cederman, Warren, & Sornette ([2011](https://www.jstor.org/stable/pdf/23016228.pdf)), "Testing Clausewitz: Nationalism, Mass Mobilization, and the Severity of War"
 * Harrison & Wolf ([2012](https://www.jstor.org/stable/pdf/23271562.pdf)), "The frequency of wars"
-..* Gleditsch & Pickering ([2014](https://bura.brunel.ac.uk/bitstream/2438/11601/2/Fulltext.pdf)), "Wars are becoming less frequent: A response to Harrison and Wolf"
+    * Gleditsch & Pickering ([2014](https://bura.brunel.ac.uk/bitstream/2438/11601/2/Fulltext.pdf)), "Wars are becoming less frequent: A response to Harrison and Wolf"
 * Clauset ([2018](http://advances.sciencemag.org/content/advances/4/2/eaao3580.full.pdf)), "Trends and fluctuations in the severity of interstate wars"
 
 ### Data
@@ -42,12 +42,12 @@ Suggestions are welcome.
 
 ### Opportunity costs
 * Collier & Hoeffler ([1998](https://www.jstor.org/stable/pdf/3488799.pdf)), "On economic causes of civil war"
-..* Collier & Hoeffler ([2004](https://www.jstor.org/stable/pdf/3488799.pdf)), "Greed and Grievance in Civil War"
+    * Collier & Hoeffler ([2004](https://www.jstor.org/stable/pdf/3488799.pdf)), "Greed and Grievance in Civil War"
 * Blomberg & Hess ([2002](https://www.jstor.org/stable/pdf/3176240.pdf)), "The Temporal Links between Conflict and Economic Activity"
 * Deininger ([2003](http://core.ac.uk/download/pdf/6243287.pdf)), "Causes and consequences of civil strife: micro-level evidence from Uganda"
 * Miguel, Satyanath, & Sergenti ([2004](http://www.nber.org/ens/feldstein/Papers/_Paper__Economic_Shocks_and_Civil_Conflict.pdf)), "Economic shocks and civil conflict: An instrumental variables approach"
-..* Ciccone ([2011](https://www.jstor.org/stable/pdf/41288656.pdf)), "Economic Shocks and Civil Conflict: A Comment"
-..* Sandholt Jensen * Gleditsch ([2009](https://www.tandfonline.com/doi/full/10.1080/10242690902868277)), "Rain, growth, and civil war: the importance of location"
+    * Ciccone ([2011](https://www.jstor.org/stable/pdf/41288656.pdf)), "Economic Shocks and Civil Conflict: A Comment"
+    * Sandholt Jensen * Gleditsch ([2009](https://www.tandfonline.com/doi/full/10.1080/10242690902868277)), "Rain, growth, and civil war: the importance of location"
 * Brückner & Ciccone ([2010](https://www.jstor.org/stable/pdf/27765785.pdf)), "International Commodity Prices, Growth and the Outbreak of Civil War in Sub-Saharan Africa"
 * Dube & Vargas ([2013](https://www.jstor.org/stable/pdf/43551562.pdf)), "Commodity Price Shocks and Civil Conflict: Evidence from Colombia"
 * Bazzi & Blattman ([2014](https://www.jstor.org/stable/pdf/43189938.pdf)), "Economic Shocks and Conflict: Evidence from Commodity Prices"
@@ -74,20 +74,20 @@ Suggestions are welcome.
 * Kevane & Gray ([2008](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1035&context=econ)), "Darfur: rainfall and conflict"
 * Tol & Wagner ([2009](https://link.springer.com/content/pdf/10.1007/s10584-009-9659-2.pdf)), "Climate change and violent conflict in Europe over the last millennium"
 * Burke et al. ([2009](http://www.pnas.org/content/pnas/106/49/20670.full.pdf?sid=)), "Warming increases the risk of civil war in Africa."
-..* Buhaug ([2010](http://www.pnas.org/content/pnas/107/38/16477.full.pdf)), "Climate not to blame for African civil wars."
-..* Burke et al. ([2010](http://www.pnas.org/content/107/51/E185.full)), "Climate robustly linked to African civil war"
-..* O 'Loughlin et al. ([2014](http://www.pnas.org/content/pnas/111/6/2054.full.pdf)), "Modeling and data choices sway conclusions about climate-conflict links."
+    * Buhaug ([2010](http://www.pnas.org/content/pnas/107/38/16477.full.pdf)), "Climate not to blame for African civil wars."
+    * Burke et al. ([2010](http://www.pnas.org/content/107/51/E185.full)), "Climate robustly linked to African civil war"
+    * O 'Loughlin et al. ([2014](http://www.pnas.org/content/pnas/111/6/2054.full.pdf)), "Modeling and data choices sway conclusions about climate-conflict links."
 * Witsenburg & Adano ([2009](https://www.tandfonline.com/doi/abs/10.1080/13698240903403915)), "Of rain and raids: Violent livestock raiding in northern Kenya"
 * Klomp & Bulte ([2013](https://ageconsearch.umn.edu/bitstream/125861/2/climate%20and%20conflict%20final.pdf)), "Climate change, weather shocks, and violent conflict: A critical look at the evidence"
 * Hsiang, Burke, & Miguel ([2013](http://science.sciencemag.org/content/sci/341/6151/1235367.full.pdf)), "Quantifying the influence of climate on human conflict"
 * Fjelde & von Uexkull ([2012](https://www.sciencedirect.com/science/article/pii/S0962629812001072)), "Climate triggers: Rainfall anomalies, vulnerability and communal conflict in Sub-Saharan Africa"
 * Hsiang & Burke ([2014](https://link.springer.com/article/10.1007/s10584-013-0868-3)), "Climate, conflict, and social stability: what does the evidence say?"
-..* Buhaug et al. ([2014](https://link.springer.com/article/10.1007/s10584-014-1266-1)), "One effect to rule them all? A comment on climate and conflict"
-..* Hsiang, Burke, & Miguel ([2014](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s10584-014-1276-z)), "Reconciling climate-conflict meta-analyses: reply to Buhaug et al."
+    * Buhaug et al. ([2014](https://link.springer.com/article/10.1007/s10584-014-1266-1)), "One effect to rule them all? A comment on climate and conflict"
+    * Hsiang, Burke, & Miguel ([2014](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s10584-014-1276-z)), "Reconciling climate-conflict meta-analyses: reply to Buhaug et al."
 * Wischnath * Buhaug ([2014](https://link.springer.com/article/10.1007/s10584-013-1004-0)), "On climate variability and civil war in Asia"
 * Maystadt & Ecker ([2014](https://academic.oup.com/ajae/article/96/4/1157/2737500)), "Extreme weather and civil war: Does drought fuel conflict in Somalia through livestock price shocks?"
 * O'Loughlin et al. ([2012](http://www.pnas.org/content/pnas/early/2012/10/17/1205130109.full.pdf)), "Climate variability and conflict risk in East Africa, 1990-2009."
-..* O'Loughlin et al. ([2014](http://www.pnas.org/content/early/2014/11/05/1411899111.long)), "Effects of temperature and precipitation variability on the risk of violence in sub-Saharan Africa, 1980–2012"
+    * O'Loughlin et al. ([2014](http://www.pnas.org/content/early/2014/11/05/1411899111.long)), "Effects of temperature and precipitation variability on the risk of violence in sub-Saharan Africa, 1980–2012"
 * Olsson ([2016](https://www.mdpi.com/2073-4336/7/1/9htm)), "Climate Change and Market Collapse: A Model Applied to Darfur"
 * Nordkvelle, Aas Rustad, & Salmivalli ([2017](https://link.springer.com/article/10.1007/s10584-017-1914-3)), "Identifying the effect of climate variability on communal conflict through randomization"
 
