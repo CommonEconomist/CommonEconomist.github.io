@@ -10,6 +10,7 @@ This reference pager collects papers which provide a good overview of current ac
 
 Suggestions are welcome. 
 
+## Conflict
 
 ### Reviews and background
 * Hegre & Sambanis ([2006](https://www.jstor.org/stable/pdf/27638504.pdf) ), "Sensitivity Analysis of Empirical Results on Civil War Onset"
@@ -17,20 +18,13 @@ Suggestions are welcome.
 * Ward, Greenhill, & Bakke ([2010](http://journals.sagepub.com/doi/pdf/10.1177/0022343309356491)), "The perils of policy by p-value: Predicting civil conflicts"
 * Besley & Persson ([2011](https://www.jstor.org/stable/pdf/23015704.pdf)), "The Logic of Political Violence"
 
-### Power-laws
+### Power-laws in conflict data
 * Cederman ([2003](https://www.jstor.org/stable/pdf/3118226.pdf)), "Modeling the Size of Wars: From Billiard Balls to Sandpiles"
 * Clauset, Young, & Gleditsch ([2007](https://www.jstor.org/stable/pdf/27638538.pdf)), "On the frequency of severe terrorist events"
 * Bohorquez et al. ([2009](http://www.uvm.edu/~pdodds/research/papers/others/2009/bohorquez2009a.pdf)), "Common ecology quantifies human insurgency"
 * Johnson et al. ([2011](http://science.sciencemag.org/content/sci/333/6038/81.full.pdf)), "Patterns in Escalations in Insurgent and Terrorist Activity"
 * Johnson et al. ([2013](https://www.nature.com/articles/srep03463)), "Simple mathematical law benchmarks human confrontations"
 * Clauset & Woodward ([2013](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1387823295)), "Estimating the historical and future probabilities of large terrorist events"
-
-### Spatial and temporal patterns (broadly)
-* Ward & Gleditsch ([2002](https://www.jstor.org/stable/pdf/25791686.pdf)), "Location, Location, Location: An MCMC Approach to Modeling the Spatial Context of War and Peace"
-* Buhaug * Gleditsch ([2008](https://www.jstor.org/stable/pdf/29734233.pdf)), "Contagion or Confusion? Why Conflicts Cluster in Space"
-* Maystadt et al. ([2014](https://researchportal.port.ac.uk/portal/files/673252/SEKERIS_2014_cright_OEP_Mineral_Resources_and_Conflict_in_DRC.pdf)), "Mineral resources and conflicts in DRC: A case of ecological fallacy?"
-* Balcells & Kalyvas ([2014](https://www.jstor.org/stable/pdf/24546209.pdf)), "Does Warfare Matter? Severity, Duration, and Outcomes of Civil Wars"
-* Beardsley, Skrede Gleditsch, & Lo ([2015](http://repository.essex.ac.uk/13723/1/BGL_ISQ.pdf)), "Roving Bandits? The Geographical Evolution of African Armed Conflicts"
 
 ### Decline of war
 * Cederman, Warren, & Sornette ([2011](https://www.jstor.org/stable/pdf/23016228.pdf)), "Testing Clausewitz: Nationalism, Mass Mobilization, and the Severity of War"
@@ -41,12 +35,19 @@ Suggestions are welcome.
 ### Data
 * Gleditsch ([2004](https://www.tandfonline.com/doi/pdf/10.1080/03050620490492150)), "A revised list of wars between and within independent states, 1816–2002"
 
+### Spatial and temporal patterns (*broadly*)
+* Ward & Gleditsch ([2002](https://www.jstor.org/stable/pdf/25791686.pdf)), "Location, Location, Location: An MCMC Approach to Modeling the Spatial Context of War and Peace"
+* Buhaug * Gleditsch ([2008](https://www.jstor.org/stable/pdf/29734233.pdf)), "Contagion or Confusion? Why Conflicts Cluster in Space"
+* Maystadt et al. ([2014](https://researchportal.port.ac.uk/portal/files/673252/SEKERIS_2014_cright_OEP_Mineral_Resources_and_Conflict_in_DRC.pdf)), "Mineral resources and conflicts in DRC: A case of ecological fallacy?"
+* Balcells & Kalyvas ([2014](https://www.jstor.org/stable/pdf/24546209.pdf)), "Does Warfare Matter? Severity, Duration, and Outcomes of Civil Wars"
+* Beardsley, Skrede Gleditsch, & Lo ([2015](http://repository.essex.ac.uk/13723/1/BGL_ISQ.pdf)), "Roving Bandits? The Geographical Evolution of African Armed Conflicts"
+
 ### Trade and war
 * Martin, Mayer, & Thoenig ([2008](https://www.jstor.org/stable/pdf/20185058.pdf)), "Make trade not war?"
 * Hegre, Oneal, & Russet ([2010](https://www.jstor.org/stable/pdf/20798962.pdf)), "Trade does promote peace: New simultaneous estimates of the reciprocal effects of trade and conflict"
 * Morelli & Sonno ([2016](http://www.tommasosonno.com/docs/JEL_2017_MorelliSonno.pdf)), "On Economic Interdependence and War"
 
-### Opportunity costs
+### Opportunity costs of conflict
 * Collier & Hoeffler ([1998](https://www.jstor.org/stable/pdf/3488799.pdf)), "On economic causes of civil war"
     * Collier & Hoeffler ([2004](https://www.jstor.org/stable/pdf/3488799.pdf)), "Greed and Grievance in Civil War"
 * Blomberg & Hess ([2002](https://www.jstor.org/stable/pdf/3176240.pdf)), "The Temporal Links between Conflict and Economic Activity"
