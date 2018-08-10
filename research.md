@@ -26,5 +26,6 @@ Overview of current research projects
     Served as input for FAO report on [conflict and food security](http://www.fao.org/3/a-i7821e.pdf).
 * ["Mostly Harmless? A subnational analysis of the aid-conflict nexus"](https://www.ucd.ie/t4cms/WP17_28.pdf)
 
+### Misc.
 * [Replications](https://github.com/CommonEconomist/replications) of other studies
 
