@@ -6,8 +6,6 @@ permalink: /research/
 
 Overview of current research projects
 
-* Hegre & Sambanis ([2006](https://www.jstor.org/stable/pdf/27638504.pdf)), "Sensitivity Analysis of Empirical Results on Civil War Onset"
-
 ### Working papers
 
 1. ["Climate change and communal violence in Ethiopia and Kenya"](https://econpapers.repec.org/paper/hicwpaper/241.htm)
