@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Papers
-permalink: /papers/
+title: Resources
+permalink: /resources/
 ---
 
 *First posted 10 August 2018; last revised 10 August 2018*<br>
