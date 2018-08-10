@@ -91,7 +91,7 @@ Suggestions are welcome.
 * Hsiang & Burke ([2014](https://link.springer.com/article/10.1007/s10584-013-0868-3)), "Climate, conflict, and social stability: what does the evidence say?"
     * Buhaug et al. ([2014](https://link.springer.com/article/10.1007/s10584-014-1266-1)), "One effect to rule them all? A comment on climate and conflict"
     * Hsiang, Burke, & Miguel ([2014](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s10584-014-1276-z)), "Reconciling climate-conflict meta-analyses: reply to Buhaug et al."
-* Wischnath * Buhaug ([2014](https://link.springer.com/article/10.1007/s10584-013-1004-0)), "On climate variability and civil war in Asia"
+* Wischnath & Buhaug ([2014](https://link.springer.com/article/10.1007/s10584-013-1004-0)), "On climate variability and civil war in Asia"
 * Maystadt & Ecker ([2014](https://academic.oup.com/ajae/article/96/4/1157/2737500)), "Extreme weather and civil war: Does drought fuel conflict in Somalia through livestock price shocks?"
 * O'Loughlin et al. ([2012](http://www.pnas.org/content/pnas/early/2012/10/17/1205130109.full.pdf)), "Climate variability and conflict risk in East Africa, 1990-2009."
     * O'Loughlin et al. ([2014](http://www.pnas.org/content/early/2014/11/05/1411899111.long)), "Effects of temperature and precipitation variability on the risk of violence in sub-Saharan Africa, 1980–2012"
