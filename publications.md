@@ -15,4 +15,4 @@ permalink: /publications/
 
 1. Spagat & van Weezel, [(2017)](http://journals.sagepub.com/doi/full/10.1177/2053168017732642), "Half a million excess deaths in the Iraq war: Terms and conditions may apply"<br>
 [replication data](https://github.com/CommonEconomist/publications/tree/master/RAP_2017)<br>
-- Follow up: Spagat & van Weezel, [(2018)](http://journals.sagepub.com/doi/full/10.1177/2053168018757858), "Terms and conditions still apply: A rejoinder to Hagopian et al."
+    * Follow up: Spagat & van Weezel, [(2018)](http://journals.sagepub.com/doi/full/10.1177/2053168018757858), "Terms and conditions still apply: A rejoinder to Hagopian et al."
