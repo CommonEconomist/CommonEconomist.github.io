@@ -6,7 +6,7 @@ permalink: /research/
 
 Overview of current research projects
 
-* Hegre & Sambanis ([2006](https://www.jstor.org/stable/pdf/27638504.pdf) ), "Sensitivity Analysis of Empirical Results on Civil War Onset"
+* Hegre & Sambanis ([2006](https://www.jstor.org/stable/pdf/27638504.pdf)), "Sensitivity Analysis of Empirical Results on Civil War Onset"
 
 ### Working papers
 
