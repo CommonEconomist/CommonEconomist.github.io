@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources
-permalink: /resources/
+title: References
+permalink: /references/
 ---
 
 *First posted 10 August 2018; last revised 10 August 2018*<br>
