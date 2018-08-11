@@ -81,12 +81,7 @@ Suggestions are welcome.
 ### Climate and conflict
 * Kevane & Gray ([2008](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1035&context=econ)), "Darfur: rainfall and conflict"
 * Tol & Wagner ([2009](https://link.springer.com/content/pdf/10.1007/s10584-009-9659-2.pdf)), "Climate change and violent conflict in Europe over the last millennium"
-* Burke et al. ([2009](http://www.pnas.org/content/pnas/106/49/20670.full.pdf?sid=)), "Warming increases the risk of civil war in Africa."
-    * Buhaug ([2010](http://www.pnas.org/content/pnas/107/38/16477.full.pdf)), "Climate not to blame for African civil wars."
-    * Burke et al. ([2010](http://www.pnas.org/content/107/51/E185.full)), "Climate robustly linked to African civil war"
-    * O 'Loughlin et al. ([2014](http://www.pnas.org/content/pnas/111/6/2054.full.pdf)), "Modeling and data choices sway conclusions about climate-conflict links."
 * Witsenburg & Adano ([2009](https://www.tandfonline.com/doi/abs/10.1080/13698240903403915)), "Of rain and raids: Violent livestock raiding in northern Kenya"
-* Klomp & Bulte ([2013](https://ageconsearch.umn.edu/bitstream/125861/2/climate%20and%20conflict%20final.pdf)), "Climate change, weather shocks, and violent conflict: A critical look at the evidence"
 * Hsiang, Burke, & Miguel ([2013](http://science.sciencemag.org/content/sci/341/6151/1235367.full.pdf)), "Quantifying the influence of climate on human conflict"
 * Fjelde & von Uexkull ([2012](https://www.sciencedirect.com/science/article/pii/S0962629812001072)), "Climate triggers: Rainfall anomalies, vulnerability and communal conflict in Sub-Saharan Africa"
 * Hsiang & Burke ([2014](https://link.springer.com/article/10.1007/s10584-013-0868-3)), "Climate, conflict, and social stability: what does the evidence say?"
@@ -94,8 +89,6 @@ Suggestions are welcome.
     * Hsiang, Burke, & Miguel ([2014](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s10584-014-1276-z)), "Reconciling climate-conflict meta-analyses: reply to Buhaug et al."
 * Wischnath & Buhaug ([2014](https://link.springer.com/article/10.1007/s10584-013-1004-0)), "On climate variability and civil war in Asia"
 * Maystadt & Ecker ([2014](https://academic.oup.com/ajae/article/96/4/1157/2737500)), "Extreme weather and civil war: Does drought fuel conflict in Somalia through livestock price shocks?"
-* O'Loughlin et al. ([2012](http://www.pnas.org/content/pnas/early/2012/10/17/1205130109.full.pdf)), "Climate variability and conflict risk in East Africa, 1990-2009."
-    * O'Loughlin et al. ([2014](http://www.pnas.org/content/early/2014/11/05/1411899111.long)), "Effects of temperature and precipitation variability on the risk of violence in sub-Saharan Africa, 1980–2012"
 * Olsson ([2016](https://www.mdpi.com/2073-4336/7/1/9htm)), "Climate Change and Market Collapse: A Model Applied to Darfur"
 * Nordkvelle, Aas Rustad, & Salmivalli ([2017](https://link.springer.com/article/10.1007/s10584-017-1914-3)), "Identifying the effect of climate variability on communal conflict through randomization"
 
