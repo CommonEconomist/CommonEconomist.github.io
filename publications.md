@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Replication data for the listed publications can be found [here](https://github.com/CommonEconomist/publications)
+Replication data for the listed publications can be found [here](https://github.com/CommonEconomist/replication-data)
 
 ### Conflict determinants
 1. van Weezel, [(2016)](https://doi.org/10.1093/oep/gpw015), "Food imports, international prices, and violence in Africa"
