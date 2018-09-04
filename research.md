@@ -9,10 +9,10 @@ Overview of current research projects
 ### Working papers
 
 1. ["Climate change and communal violence in Ethiopia and Kenya"](https://econpapers.repec.org/paper/hicwpaper/241.htm)
-2. ["David versus Goliath: fundamental patterns and predictions in modern wars and terrorist campaigns"](https://www.ucd.ie/t4cms/WP17_21.pdf), Neil Johnson & Michael Spagat
-3. ["Estimating indirect war deaths directly"](https://www.researchgate.net/publication/324123499_Estimating_Indirect_War_Deaths_Directly), Michael Spagat
-4. ["Excess mortality and hurricane María"](http://dx.doi.org/10.13140/RG.2.2.14013.15849), Michael Spagat
-5. ["On the decline of war"](http://www.ucd.ie/t4cms/WP18_15.pdf), Michael Spagat
+2. ["David versus Goliath: fundamental patterns and predictions in modern wars and terrorist campaigns"](https://www.ucd.ie/t4cms/WP17_21.pdf), with Neil Johnson & Michael Spagat
+3. ["Estimating indirect war deaths directly"](https://www.researchgate.net/publication/324123499_Estimating_Indirect_War_Deaths_Directly), with Michael Spagat
+4. ["Excess mortality and hurricane María"](http://dx.doi.org/10.13140/RG.2.2.14013.15849), with Michael Spagat
+5. ["On the decline of war"](http://www.ucd.ie/t4cms/WP18_15.pdf), with Michael Spagat
 
 ### In limbo
 * ["Food security and armed conflict: A cross-country analysis"](http://www.fao.org/3/CA0971EN/ca0971en.pdf)<br>
