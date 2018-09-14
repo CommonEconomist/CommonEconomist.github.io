@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-*First posted 10 August 2018; last revised 10 August 2018*<br>
+*First posted 10 August 2018; last revised 14 September 2018*<br>
 
 This reference pager collects papers which provide a good overview of current academic research on conflict. In the future I will probably add sections on other topics I work on as well as on econometrics. Naturally this paper reflects my interests and there is a substantial selection bias, although I try to list what is currently the state-of-the-art, along with some seminal papers.
 Current list is still under revision so I might add or remove articles. <br>
@@ -19,6 +19,9 @@ Suggestions are welcome.
 * Ward, Greenhill, & Bakke ([2010](http://journals.sagepub.com/doi/pdf/10.1177/0022343309356491)), "The perils of policy by p-value: Predicting civil conflicts"
 * Besley & Persson ([2011](https://www.jstor.org/stable/pdf/23015704.pdf)), "The Logic of Political Violence"
 
+### Data
+* Gleditsch ([2004](https://www.tandfonline.com/doi/pdf/10.1080/03050620490492150)), "A revised list of wars between and within independent states, 1816–2002". Data can be found [here](http://ksgleditsch.com/expwar.html
+
 ### Power-laws in conflict data
 * Cederman ([2003](https://www.jstor.org/stable/pdf/3118226.pdf)), "Modeling the Size of Wars: From Billiard Balls to Sandpiles"
 * Clauset, Young, & Gleditsch ([2007](https://www.jstor.org/stable/pdf/27638538.pdf)), "On the frequency of severe terrorist events"
@@ -32,9 +35,6 @@ Suggestions are welcome.
 * Harrison & Wolf ([2012](https://www.jstor.org/stable/pdf/23271562.pdf)), "The frequency of wars"
     * Gleditsch & Pickering ([2014](https://bura.brunel.ac.uk/bitstream/2438/11601/2/Fulltext.pdf)), "Wars are becoming less frequent: A response to Harrison and Wolf"
 * Clauset ([2018](http://advances.sciencemag.org/content/advances/4/2/eaao3580.full.pdf)), "Trends and fluctuations in the severity of interstate wars"
-
-### Data
-* Gleditsch ([2004](https://www.tandfonline.com/doi/pdf/10.1080/03050620490492150)), "A revised list of wars between and within independent states, 1816–2002"
 
 ### Spatial and temporal patterns (*broadly*)
 * Ward & Gleditsch ([2002](https://www.jstor.org/stable/pdf/25791686.pdf)), "Location, Location, Location: An MCMC Approach to Modeling the Spatial Context of War and Peace"
@@ -64,6 +64,7 @@ Suggestions are welcome.
 ### Economic impact of conflict
 * Abadie & Gardeazabal ([2003](https://www.jstor.org/stable/pdf/3132164.pdf)), "The economic costs of conflict: A case study of the Basque Country"
 * Bove, Elia, & Smith ([2017](https://academic.oup.com/oep/article-abstract/69/3/550/2907946)), "On the heterogeneous consequences of civil war"
+* Schave & Stasavage ([2010](https://web.stanford.edu/group/scheve-research/cgi-bin/wordpress/wp-content/uploads/2013/08/ScheveStasavage_IO_2010.pdf)), "The conscription of wealth: Mass warfare and the demand for progressive taxation"
 
 ### Foreign aid and conflict
 * de Ree & Nillesen ([2009](https://dspace.library.uu.nl/bitstream/handle/1874/309916/06_09.pdf?sequence=1)), "Aiding violence or peace? The impact of foreign aid on the risk of civil conflict in sub-Saharan Africa"
@@ -91,6 +92,9 @@ Suggestions are welcome.
 * Maystadt & Ecker ([2014](https://academic.oup.com/ajae/article/96/4/1157/2737500)), "Extreme weather and civil war: Does drought fuel conflict in Somalia through livestock price shocks?"
 * Olsson ([2016](https://www.mdpi.com/2073-4336/7/1/9htm)), "Climate Change and Market Collapse: A Model Applied to Darfur"
 * Nordkvelle, Aas Rustad, & Salmivalli ([2017](https://link.springer.com/article/10.1007/s10584-017-1914-3)), "Identifying the effect of climate variability on communal conflict through randomization"
+
+### Military expenditures and mobilisation
+* Onorato, Schave, & Stasavage ([2014](https://pdfs.semanticscholar.org/5d37/cb688273a3df3e0441125297141e8f63c71e.pdf)), "Technology and the Era of the Mass Army"
 
 ### 'Deep roots'
 * Besley & Reynal-Querrol ([2014](https://www.jstor.org/stable/pdf/43654375.pdf)), "The Legacy of Historical Conflict: Evidence from Africa"
