@@ -11,7 +11,7 @@ Overview of current research projects
 1. ["Climate change and communal violence in Ethiopia and Kenya"](https://econpapers.repec.org/paper/hicwpaper/241.htm)
 2. ["David versus Goliath: fundamental patterns and predictions in modern wars and terrorist campaigns"](https://www.ucd.ie/t4cms/WP17_21.pdf), with Neil Johnson & Michael Spagat
 3. ["On the decline of war"](http://www.ucd.ie/t4cms/WP18_15.pdf), with Michael Spagat
-4. ["Apocalypse Now?Climate Change and War in Africa"](http://www.ucd.ie/t4cms/WP18_16.pdf)
+4. ["Apocalypse Now? Climate Change and War in Africa"](http://www.ucd.ie/t4cms/WP18_16.pdf)
 
 ### In limbo
 * ["Food security and armed conflict: A cross-country analysis"](http://www.fao.org/3/CA0971EN/ca0971en.pdf)<br>
