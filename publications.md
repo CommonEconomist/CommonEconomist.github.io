@@ -15,4 +15,4 @@ Replication data for the listed publications can be found [here](https://github.
     * Follow up: Spagat & van Weezel, [(2018)](http://journals.sagepub.com/doi/full/10.1177/2053168018757858), "Terms and conditions still apply: A rejoinder to Hagopian et al."
 
 ### Statistics of war
-1. Spagat, Johnson, & van Weezel, (*forthcoming*), "David versus Goliath: fundamental patterns and predictions in modern wars and terrorist campaigns"
+1. Spagat, Johnson, & van Weezel, (*forthcoming*), "Fundamental patterns and predictions of event size distribution in modern wars and terrorist campaigns"
