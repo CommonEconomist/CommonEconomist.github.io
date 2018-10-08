@@ -12,7 +12,7 @@ Replication data for the listed publications can be found [here](https://github.
 ### Excess mortality
 
 1.    Spagat & van Weezel, [(2017)](http://journals.sagepub.com/doi/full/10.1177/2053168017732642), "Half a million excess deaths in the Iraq war: Terms and conditions may apply"
-    * Follow up: Spagat & van Weezel, [(2018)](http://journals.sagepub.com/doi/full/10.1177/2053168018757858), "Terms and conditions still apply: A rejoinder to Hagopian et al."
+        * Follow up: Spagat & van Weezel, [(2018)](http://journals.sagepub.com/doi/full/10.1177/2053168018757858), "Terms and conditions still apply: A rejoinder to Hagopian et al."
 
 ### Statistics of war
 1.    Spagat, Johnson, & van Weezel, (*forthcoming*), "Fundamental patterns and predictions of event size distribution in modern wars and terrorist campaigns"
