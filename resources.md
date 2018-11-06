@@ -38,7 +38,7 @@ Suggestions are welcome.
 
 ### Spatial and temporal patterns (*broadly*)
 * Ward & Gleditsch ([2002](https://www.jstor.org/stable/pdf/25791686.pdf)), "Location, Location, Location: An MCMC Approach to Modeling the Spatial Context of War and Peace"
-* Buhaug * Gleditsch ([2008](https://www.jstor.org/stable/pdf/29734233.pdf)), "Contagion or Confusion? Why Conflicts Cluster in Space"
+* Buhaug & Gleditsch ([2008](https://www.jstor.org/stable/pdf/29734233.pdf)), "Contagion or Confusion? Why Conflicts Cluster in Space"
 * Maystadt et al. ([2014](https://researchportal.port.ac.uk/portal/files/673252/SEKERIS_2014_cright_OEP_Mineral_Resources_and_Conflict_in_DRC.pdf)), "Mineral resources and conflicts in DRC: A case of ecological fallacy?"
 * Balcells & Kalyvas ([2014](https://www.jstor.org/stable/pdf/24546209.pdf)), "Does Warfare Matter? Severity, Duration, and Outcomes of Civil Wars"
 * Beardsley, Skrede Gleditsch, & Lo ([2015](http://repository.essex.ac.uk/13723/1/BGL_ISQ.pdf)), "Roving Bandits? The Geographical Evolution of African Armed Conflicts"
