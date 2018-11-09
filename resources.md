@@ -20,7 +20,7 @@ Suggestions are welcome.
 * Besley & Persson ([2011](https://www.jstor.org/stable/pdf/23015704.pdf)), "The logic of political violence"
 
 ### Data
-* Gleditsch ([2004](https://www.tandfonline.com/doi/pdf/10.1080/03050620490492150)), "A revised list of wars between and within independent states, 1816–2002". Data can be found [here](http://ksgleditsch.com/expwar.html
+* Gleditsch ([2004](https://www.tandfonline.com/doi/pdf/10.1080/03050620490492150)), "A revised list of wars between and within independent states, 1816–2002". Data can be found [here](http://ksgleditsch.com/expwar.html).
 
 ### Power-laws in conflict data
 * Cederman ([2003](https://www.jstor.org/stable/pdf/3118226.pdf)), "Modeling the size of wars: from nilliard balls to sandpiles"
