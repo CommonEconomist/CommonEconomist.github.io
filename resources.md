@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-*First posted 10 August 2018; last revised 9 November 2018*<br>
+*First posted 10 August 2018; last revised 11 November 2018*<br>
 
 This reference pager collects papers which provide a good overview of current academic research on conflict. In the future I will probably add sections on other topics I work on as well as on econometrics. Naturally this page reflects my interests and there is a substantial selection bias, although I try to list what is currently the state-of-the-art, along with some seminal papers.
 Current list is still under revision so I might add or remove articles. <br>
