@@ -22,7 +22,7 @@ Suggestions are welcome.
 ### Data
 * Gleditsch ([2004](https://www.tandfonline.com/doi/pdf/10.1080/03050620490492150)), "A revised list of wars between and within independent states, 1816–2002". Data can be found [here](http://ksgleditsch.com/expwar.html).
 
-### Conflict patters
+### Conflict patterns
 
 #### Power-laws in conflict data
 * Cederman ([2003](https://www.jstor.org/stable/pdf/3118226.pdf)), "Modeling the size of wars: from nilliard balls to sandpiles"
