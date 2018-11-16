@@ -25,7 +25,7 @@ Suggestions are welcome.
 ### Conflict patterns
 
 #### Power-laws in conflict data
-* Cederman ([2003](https://www.jstor.org/stable/pdf/3118226.pdf)), "Modeling the size of wars: from nilliard balls to sandpiles"
+* Cederman ([2003](https://www.jstor.org/stable/pdf/3118226.pdf)), "Modeling the size of wars: from billiard balls to sandpiles"
 * Clauset, Young, & Gleditsch ([2007](https://www.jstor.org/stable/pdf/27638538.pdf)), "On the frequency of severe terrorist events"
 * Bohorquez et al. ([2009](http://www.uvm.edu/~pdodds/research/papers/others/2009/bohorquez2009a.pdf)), "Common ecology quantifies human insurgency"
 * Johnson et al. ([2011](http://science.sciencemag.org/content/sci/333/6038/81.full.pdf)), "Patterns in escalations in insurgent and terrorist activity"
@@ -33,7 +33,8 @@ Suggestions are welcome.
 * Clauset & Woodward ([2013](https://projecteuclid.org/download/pdfview_1/euclid.aoas/1387823295)), "Estimating the historical and future probabilities of large terrorist events"
 
 #### Decline of war
-* Cederman, Warren, & Sornette ([2011](https://www.jstor.org/stable/pdf/23016228.pdf)), "Testing Clausewitz: nationalism, mass Mobilization, and the severity of war"
+* Cederman, Warren, & Sornette ([2011](https://www.jstor.org/stable/pdf/23016228.pdf)), "Testing Clausewitz: nationalism, mass mobilization, and the severity of war"
+    * See also Onorato, Schave, & Stasavage ([2014](https://pdfs.semanticscholar.org/5d37/cb688273a3df3e0441125297141e8f63c71e.pdf)), "Technology and the era of the mass army"
 * Harrison & Wolf ([2012](https://www.jstor.org/stable/pdf/23271562.pdf)), "The frequency of wars"
     * Gleditsch & Pickering ([2014](https://bura.brunel.ac.uk/bitstream/2438/11601/2/Fulltext.pdf)), "Wars are becoming less frequent: A response to Harrison and Wolf"
 * Clauset ([2018](http://advances.sciencemag.org/content/advances/4/2/eaao3580.full.pdf)), "Trends and fluctuations in the severity of interstate wars"
@@ -102,7 +103,5 @@ Suggestions are welcome.
 * Olsson ([2016](https://www.mdpi.com/2073-4336/7/1/9htm)), "Climate change and market collapse: a model applied to Darfur"
 * Nordkvelle, Aas Rustad, & Salmivalli ([2017](https://link.springer.com/article/10.1007/s10584-017-1914-3)), "Identifying the effect of climate variability on communal conflict through randomization"
 
-### Misc. 
-* Onorato, Schave, & Stasavage ([2014](https://pdfs.semanticscholar.org/5d37/cb688273a3df3e0441125297141e8f63c71e.pdf)), "Technology and the era of the mass army"
 
 
