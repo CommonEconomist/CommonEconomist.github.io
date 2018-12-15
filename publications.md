@@ -21,7 +21,7 @@ permalink: /publications/
 
 ### Working papers
 
-1. "Apocalypse Now? Climate Change and War in Africa" [pdf](http://www.ucd.ie/t4cms/WP18_16.pdf)
+1. "Apocalypse now? Climate change and war in Africa" [pdf](http://www.ucd.ie/t4cms/WP18_16.pdf)
 2. "On the decline of war", with Michael Spagat. [pdf](http://www.ucd.ie/t4cms/WP18_15.pdf)
 3. "Climate change and communal violence in Ethiopia and Kenya" [link](https://econpapers.repec.org/paper/hicwpaper/241.htm)
 
