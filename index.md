@@ -9,4 +9,4 @@ Current Eddington number: *90*
 
 
 
-*Last update:* 2018-10-10
+*Last update* 2018-12-15
