@@ -32,8 +32,6 @@ permalink: /research/
 * "Mostly Harmless? A subnational analysis of the aid-conflict nexus" [pdf](https://www.ucd.ie/t4cms/WP17_28.pdf)
    * Updated version of "A spatial analysis of the effect of foreign aid in conflict areas". [link](https://www.aiddata.org/publications/a-spatial-analysis-of-the-effect-of-foreign-aid-in-conflict-areas)
 
-### Misc.
-* [Replications](https://github.com/CommonEconomist/replications) of other studies
 
 
 
