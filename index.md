@@ -2,14 +2,16 @@
 layout: default
 ---
 I am an applied econometrist located in Europe.
-My research interests are in development economics, political economy, and conflict studies.<br>
+My research lies at the intersection of political economy and development economics. 
+In particular, my research focuses on the causes and consequences of violent armed conflict. 
+Most of my research focuses on Africa. 
 
+My current research is on:
 
-Currently my research is on
+1. The relationship between trade and war
+2. The effect of refugees on evironmental degradation
 
-1. Postcolonial trade linkages and civil war
-2. Refugees and evironmental degradation
+[CV](http://commoneconomist.github.io/files/cv-svw.pdf)
 
-
-[CV](files/cv-svw.pdf)
+When not running [regressions](https://www.strava.com/athletes/2135375) (N <sub>Edd</sub> = 90).
 
