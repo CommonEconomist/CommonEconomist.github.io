@@ -1,6 +1,7 @@
 title: Stijn van Weezel
 contact: weezel.van (at) gmail.com
-description: > # this means to ignore newlines until "baseurl:"  
+description: > 
+  Last update: 2018 12 18
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 permalink: /blog/:year/:month/:title.html
 gems: - jekyll-sitemap
