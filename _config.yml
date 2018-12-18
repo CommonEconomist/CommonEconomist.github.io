@@ -1,14 +1,8 @@
-# Site settings
 title: Stijn van Weezel
 contact: weezel.van (at) gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  This page contains links to research, replication code for published papers, and teaching material.
-about_me: I am an applied econometrist located in Europe. My research interests are development economics, political economy, and conflict studies.
-
+description: > # this means to ignore newlines until "baseurl:"  
+# baseurl: "/" # the subpath of your site, e.g. /blog/
 permalink: /blog/:year/:month/:title.html
-gems:
-  - jekyll-sitemap
-
-# Build settings
+gems: - jekyll-sitemap
 markdown: kramdown
 theme: minima
