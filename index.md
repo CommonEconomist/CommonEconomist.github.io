@@ -11,5 +11,5 @@ Currently my research is on
 2. Refugees and evironmental degradation
 
 
-[cv](files/CV.pdf)
+[CV](files/cv-svw.pdf)
 
