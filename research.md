@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Published work
+## Publications
 
 1.    Spagat, Johnson, & van Weezel, [(2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204639), "Fundamental patterns and predictions of event size distribution in modern wars and terrorist campaigns". 
 [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/david-vs-goliath).
@@ -26,7 +26,7 @@ permalink: /research/
 2. "On the decline of war", with Michael Spagat. [pdf](http://www.ucd.ie/t4cms/WP18_15.pdf)
 3. "Climate change and communal violence in Ethiopia and Kenya" [link](https://econpapers.repec.org/paper/hicwpaper/241.htm)
 
-### In limbo
+#### In limbo
 * "Food security and armed conflict: A cross-country analysis" [pdf](http://www.fao.org/3/CA0971EN/ca0971en.pdf)
     * Served as input for FAO report on [conflict and food security](http://www.fao.org/3/a-i7821e.pdf).
 * "Drought severity and communal conflict in Nigeria" [pdf](https://econpapers.repec.org/paper/hicwpaper/240.htm)
