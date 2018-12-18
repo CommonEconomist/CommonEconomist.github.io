@@ -3,8 +3,9 @@ layout: default
 ---
 I am an applied econometrist located in Europe.
 My research lies at the intersection of political economy and development economics. 
-In particular, my research focuses on the causes and consequences of violent armed conflict. 
-Most of my research focuses on Africa. 
+In particular, my research focuses on the determinants and consequences of violent armed conflict. 
+Most of this research centers on Africa. 
+In addition part of my research addresses universal patterns war severity. 
 
 My current research is on:
 
