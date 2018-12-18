@@ -3,8 +3,11 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+### Upcoming teaching
 
-Teaching material for various courses
+None currently plannes
+
+### Past teaching
 
 * [Advanced macroeconomics](https://github.com/CommonEconomist/teaching/tree/master/advanced-macro) 
 * [International trade economics](https://github.com/CommonEconomist/teaching/tree/master/international-trade)
