@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 ### Upcoming teaching
 
-None currently plannes
+None currently planned
 
 ### Past teaching
 
