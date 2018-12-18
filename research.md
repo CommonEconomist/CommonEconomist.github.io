@@ -13,10 +13,11 @@ permalink: /research/
 [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/iraq-excess-mortality).
         * Follow up: Spagat & van Weezel, [(2018)](http://journals.sagepub.com/doi/full/10.1177/2053168018757858), "Terms and conditions still apply: A rejoinder to Hagopian et al."
 
-3.    van Weezel, [(2016)](https://doi.org/10.1093/oep/gpw015), "Food imports, international prices, and violence in Africa".
-[Appendix](https://github.com/CommonEconomist/replication-data/blob/master/food-prices-violence/oep.68.3.758.app.pdf).  [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/food-prices-violence).
+3.    van Weezel, [(2016)](http://commoneconomist.github.io/files/oep.68.3.758.pdf), "Food imports, international prices, and violence in Africa".
+[Appendix](http://commoneconomist.github.io/files/oep.68.3.758.app.pdf).
+ [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/food-prices-violence).
 
-4.    van Weezel, [(2015)](http://www.tandfonline.com/doi/full/10.1080/10242694.2014.887489), "Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010".
+4.    van Weezel, [(2015)](http://commoneconomist.github.io/files/dpe.26.2.153.pdf), "Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010".
 [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/econ-shocks-conflict).
 
 ### Working papers
