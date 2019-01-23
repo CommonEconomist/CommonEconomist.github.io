@@ -1,8 +1,8 @@
 # Site settings
-title: Stijn van Weezel
+title: 
 email: weezel.van (at) gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Last update: 2019 01 06
+  Research and teaching material
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 permalink: /blog/:year/:month/:title.html
 gems:
