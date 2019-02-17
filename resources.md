@@ -4,12 +4,11 @@ title: Resources
 permalink: /resources/
 ---
 
-*First posted 10 August 2018; last revised 11 November 2018*<br>
+*First posted 10 August 2018; last revised 17 February 2019*<br>
 
-This reference pager collects papers which provide a good overview of current academic research on conflict. In the future I will probably add sections on other topics I work on as well as on econometrics. Naturally this page reflects my interests and there is a substantial selection bias, although I try to list what is currently the state-of-the-art, along with some seminal papers.
-Current list is still under revision so I might add or remove articles. <br>
-
-Suggestions are welcome. 
+This is a reference page which provides an overview of current research on conflict. 
+Naturally this page rflects my interests and as such there is a substantial selection bias; although I do try to list what is currently the state-of-the-art in research, along with seminal papers. 
+List is under constant, albeit infrequent, revision. 
 
 ## Conflict
 
@@ -18,9 +17,6 @@ Suggestions are welcome.
 * Blattman & Miguel ([2010](https://www.jstor.org/stable/pdf/40651577.pdf)), "Civil war"
 * Ward, Greenhill, & Bakke ([2010](http://journals.sagepub.com/doi/pdf/10.1177/0022343309356491)), "The perils of policy by p-value: predicting civil conflicts"
 * Besley & Persson ([2011](https://www.jstor.org/stable/pdf/23015704.pdf)), "The logic of political violence"
-
-### Data
-* Gleditsch ([2004](https://www.tandfonline.com/doi/pdf/10.1080/03050620490492150)), "A revised list of wars between and within independent states, 1816–2002". Data can be found [here](http://ksgleditsch.com/expwar.html).
 
 ### Conflict patterns
 
@@ -43,7 +39,6 @@ Suggestions are welcome.
 * Ward & Gleditsch ([2002](https://www.jstor.org/stable/pdf/25791686.pdf)), "Location, location, location: an MCMC approach to modeling the spatial context of war and Peace"
 * Buhaug & Gleditsch ([2008](https://www.jstor.org/stable/pdf/29734233.pdf)), "Contagion or confusion? Why conflicts cluster in space"
 * Maystadt et al. ([2014](https://researchportal.port.ac.uk/portal/files/673252/SEKERIS_2014_cright_OEP_Mineral_Resources_and_Conflict_in_DRC.pdf)), "Mineral resources and conflicts in DRC: a case of ecological fallacy?"
-* Balcells & Kalyvas ([2014](https://www.jstor.org/stable/pdf/24546209.pdf)), "Does warfare matter? Severity, duration, and outcomes of civil wars"
 * Beardsley, Skrede Gleditsch, & Lo ([2015](http://repository.essex.ac.uk/13723/1/BGL_ISQ.pdf)), "Roving bandits? The geographical evolution of African armed conflicts"
 
 ### Economic causes and consequences
