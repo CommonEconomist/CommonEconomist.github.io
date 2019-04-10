@@ -6,20 +6,20 @@ permalink: /research/
 
 ## Publications
 
-1. van Weezel, [(2019)](https://doi.org/10.1177/0022343319826409), "On climate and conflict: Precipitation decline and communal conflict in Ethiopia and Kenya". [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/climate-conflict).
+1. van Weezel, [2019](https://doi.org/10.1177/0022343319826409), "On climate and conflict: Precipitation decline and communal conflict in Ethiopia and Kenya". [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/climate-conflict).
 
-2.    Spagat, Johnson, & van Weezel, [(2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204639), "Fundamental patterns and predictions of event size distribution in modern wars and terrorist campaigns". 
+2.    Spagat, Johnson, & van Weezel, [2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204639), "Fundamental patterns and predictions of event size distribution in modern wars and terrorist campaigns". 
 [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/david-vs-goliath).
 
-3.    Spagat & van Weezel, [(2017)](http://journals.sagepub.com/doi/full/10.1177/2053168017732642), "Half a million excess deaths in the Iraq war: Terms and conditions may apply". 
+3.    Spagat & van Weezel, [2017](http://journals.sagepub.com/doi/full/10.1177/2053168017732642), "Half a million excess deaths in the Iraq war: Terms and conditions may apply". 
 [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/iraq-excess-mortality).
-        * Follow up: Spagat & van Weezel, [(2018)](http://journals.sagepub.com/doi/full/10.1177/2053168018757858), "Terms and conditions still apply: A rejoinder to Hagopian et al."
+        * Follow up: Spagat & van Weezel, [2018](http://journals.sagepub.com/doi/full/10.1177/2053168018757858), "Terms and conditions still apply: A rejoinder to Hagopian et al."
 
-4.    van Weezel, [(2016)](http://commoneconomist.github.io/files/oep.68.3.758.pdf), "Food imports, international prices, and violence in Africa".
+4.    van Weezel, [2016](http://commoneconomist.github.io/files/oep.68.3.758.pdf), "Food imports, international prices, and violence in Africa".
 [Appendix](http://commoneconomist.github.io/files/oep.68.3.758.app.pdf).
  [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/food-prices-violence).
 
-5.    van Weezel, [(2015)](http://commoneconomist.github.io/files/dpe.26.2.153.pdf), "Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010".
+5.    van Weezel, [2015](http://commoneconomist.github.io/files/dpe.26.2.153.pdf), "Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010".
 [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/econ-shocks-conflict).
 
 ### Working papers
