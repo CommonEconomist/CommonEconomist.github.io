@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Publications
 
-1. van Weezel, (*forthcoming*), "On climate and conflict: Precipitation decline and communal conflict in Ethiopia and Kenya". [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/climate-conflict).
+1. van Weezel, [(2019)](https://doi.org/10.1177/0022343319826409), "On climate and conflict: Precipitation decline and communal conflict in Ethiopia and Kenya". [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/climate-conflict).
 
 2.    Spagat, Johnson, & van Weezel, [(2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204639), "Fundamental patterns and predictions of event size distribution in modern wars and terrorist campaigns". 
 [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/david-vs-goliath).
