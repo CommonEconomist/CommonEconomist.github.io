@@ -14,5 +14,5 @@ My current research is on:
 
 [CV](http://commoneconomist.github.io/files/cv-svw.pdf)
 
-When not running [regressions](https://www.strava.com/athletes/2135375) (Eddington# = 91).
+When not running [regressions](https://www.strava.com/athletes/2135375) (Eddington# = 92).
 
