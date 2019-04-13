@@ -12,6 +12,7 @@ permalink: /research/
 3. "[Half a million excess deaths in the Iraq war: Terms and conditions may apply.](http://journals.sagepub.com/doi/full/10.1177/2053168017732642)" Research and Politics (2018). With Spagat, M.. [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/iraq-excess-mortality).
     *  Follow up: "[Terms and conditions still apply: A rejoinder to Hagopian et al.](http://journals.sagepub.com/doi/full/10.1177/2053168018757858)"
 
+
 4.  "[Food imports, international prices, and violence in Africa.](http://commoneconomist.github.io/files/oep.68.3.758.pdf)" Oxford Economic Papers (2016). [Appendix](http://commoneconomist.github.io/files/oep.68.3.758.app.pdf). [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/food-prices-violence).
 
 5.  "[Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010.](http://commoneconomist.github.io/files/dpe.26.2.153.pdf)" Defence and Peace Economics (2015). [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/econ-shocks-conflict).
