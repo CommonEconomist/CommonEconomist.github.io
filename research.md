@@ -3,8 +3,11 @@ layout: page
 title: Research
 permalink: /research/
 ---
+### Working papers
+*  ["Apocalypse now? Climate change and war in Africa"](http://www.ucd.ie/t4cms/WP18_16.pdf)
 
-## Articles and chapters
+### Articles and chapters
+
 1.  van Weezel, S. (2019) ["On climate and conflict: Precipitation decline and communal conflict in Ethiopia and Kenya"](https://journals.sagepub.com/doi/abs/10.1177/0022343319826409). *Journal of Peace Research*. [Appendix](http://commoneconomist.github.io/files/jpr.app.pdf); [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/climate-conflict).
 
 2.  Spagat, M. & van Weezel S. (2019) "On the decline of war", in Lewis F Richardson - His Intellectual Legacy and Influence in the Social Sciences, ed. Nils Petter Gleditsch, Springer Pioneer Series.  [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/war-decline)
@@ -18,12 +21,9 @@ permalink: /research/
 
 6.  van Weezel, S. (2015). ["Economic shocks and civil conflict onset in Sub-Saharan Africa, 1981-2010"](http://www.tandfonline.com/doi/abs/10.1080/10242694.2014.887489). *Defence and Peace Economics* 26(2): 153-177. [Replication data](https://github.com/CommonEconomist/replication-data/tree/master/econ-shocks-conflict).
 
-### Working papers
-1. "Apocalypse now? Climate change and war in Africa" [pdf](http://www.ucd.ie/t4cms/WP18_16.pdf)
-
 #### In limbo
-* "Food security and armed conflict: A cross-country analysis" [pdf](http://www.fao.org/3/CA0971EN/ca0971en.pdf)
+* ["Food security and armed conflict: A cross-country analysis"](http://www.fao.org/3/CA0971EN/ca0971en.pdf)
     * Served as input for FAO report on [conflict and food security](http://www.fao.org/3/a-i7821e.pdf).
-* "Drought severity and communal conflict in Nigeria" [pdf](https://econpapers.repec.org/paper/hicwpaper/240.htm)
-* "Mostly Harmless? A subnational analysis of the aid-conflict nexus" [pdf](https://www.ucd.ie/t4cms/WP17_28.pdf)
-   * Updated version of "A spatial analysis of the effect of foreign aid in conflict areas". [link](https://www.aiddata.org/publications/a-spatial-analysis-of-the-effect-of-foreign-aid-in-conflict-areas)
+* ["Drought severity and communal conflict in Nigeria"](https://econpapers.repec.org/paper/hicwpaper/240.htm)
+* ["Mostly Harmless? A subnational analysis of the aid-conflict nexus"](https://www.ucd.ie/t4cms/WP17_28.pdf)
+   * Updated version of [A spatial analysis of the effect of foreign aid in conflict areas"](https://www.aiddata.org/publications/a-spatial-analysis-of-the-effect-of-foreign-aid-in-conflict-areas)
