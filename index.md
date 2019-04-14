@@ -9,10 +9,9 @@ In addition some of my projects address universal patterns in war severity.
 
 My current research is on:
 
-1. The relationship between trade and war
-2. The effect of refugees on evironmental degradation
+1. Trade and war in colonial and post-colonial Africa
+2. The effect of refugee camps on i) environmental degradation and ii) health outcomes
 
 [CV](http://commoneconomist.github.io/files/cv-svw.pdf)
 
 When not running [regressions](https://www.strava.com/athletes/2135375) (Eddington# = 92).
-
