@@ -26,4 +26,4 @@ permalink: /research/
     * Served as input for FAO report on [conflict and food security](http://www.fao.org/3/a-i7821e.pdf).
 * ["Drought severity and communal conflict in Nigeria"](https://econpapers.repec.org/paper/hicwpaper/240.htm)
 * ["Mostly Harmless? A subnational analysis of the aid-conflict nexus"](https://www.ucd.ie/t4cms/WP17_28.pdf)
-   * Updated version of [A spatial analysis of the effect of foreign aid in conflict areas"](https://www.aiddata.org/publications/a-spatial-analysis-of-the-effect-of-foreign-aid-in-conflict-areas)
+   * Updated version of ["A spatial analysis of the effect of foreign aid in conflict areas"](https://www.aiddata.org/publications/a-spatial-analysis-of-the-effect-of-foreign-aid-in-conflict-areas)
