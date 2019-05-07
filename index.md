@@ -12,6 +12,6 @@ My current research is on:
 1. Trade and war in colonial and post-colonial Africa
 2. The effect of refugee camps on i) environmental degradation and ii) health outcomes
 
-[CV](http://commoneconomist.github.io/files/cv-svw.pdf)
+[CV](http://commoneconomist.github.io/files/vanweezel-cv.pdf)
 
-When not running [regressions](https://www.strava.com/athletes/2135375) (Eddington# = 92).
+When not running [regressions](https://www.strava.com/athletes/2135375) (Eddington# = 93).
