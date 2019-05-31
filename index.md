@@ -5,7 +5,7 @@ I am an applied econometrist.
 My research lies at the intersection of political economy and development economics. 
 In particular, my studies focus on the determinants and consequences of violent armed conflict. 
 Most of my work centers on Africa. 
-In addition some of my projects address universal patterns in war severity. 
+In addition some projects address universal patterns in war severity. 
 
 My current research is on:
 
