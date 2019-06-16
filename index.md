@@ -9,8 +9,9 @@ In addition some projects address universal patterns in war severity.
 
 My current research is on:
 
-1. Trade and war in colonial and post-colonial Africa
-2. The effect of refugee camps on i) environmental degradation and ii) health outcomes
+1. Economic dependence and civil conflict in post-colonial Africa
+2. Refugees and environmental degradation
+
 
 [CV](http://commoneconomist.github.io/files/vanweezel-cv.pdf)
 
