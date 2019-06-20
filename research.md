@@ -17,6 +17,7 @@ permalink: /research/
 4.  Spagat, M. & van Weezel, S. (2017). "Half a million excess deaths in the Iraq war: Terms and conditions may apply". *Research and Politics* 4(4). <[paper](http://commoneconomist.github.io/files/rap.4.4.1.pdf)> <[appendix](http://commoneconomist.github.io/files/rap.4.4.1.app.pdf)>  <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/iraq-excess-mortality)>
     *  Follow up: Spagat, M. & van Weezel, S. (2018). "Terms and conditions still apply: A rejoinder to Hagopian et al.". *Research and Politics* 5(1). <[paper](http://commoneconomist.github.io/files/rap.5.1.1.pdf)>  
     
+    
 5.  van Weezel, S. (2016). "Food imports, international prices, and violence in Africa". *Oxford Economic Papers* 68(3): 758-781. <[paper](http://commoneconomist.github.io/files/oep.68.3.758.pdf)> <[appendix](http://commoneconomist.github.io/files/oep.68.3.758.app.pdf)>  <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/food-prices-violence)>
 
 6.  van Weezel, S. (2015). "Economic shocks and civil conflict onset in Sub-Saharan Africa, 1981-2010". *Defence and Peace Economics* 26(2): 153-177. <[paper](http://commoneconomist.github.io/files/dpe.26.2.153.pdf)> <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/econ-shocks-conflict)>
