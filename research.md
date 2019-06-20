@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 ### Working papers
-*  ["Apocalypse now? Climate change and war in Africa"](http://www.ucd.ie/t4cms/WP18_16.pdf)
+* "Apocalypse now? Climate change and war in Africa" <[paper](http://www.ucd.ie/t4cms/WP18_16.pdf)>
 
 ### Articles and chapters
 
