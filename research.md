@@ -8,7 +8,7 @@ permalink: /research/
 
 ### Articles and chapters
 
-1.  van Weezel, S. (2019). "On climate and conflict: Precipitation decline and communal conflict in Ethiopia and Kenya". *Journal of Peace Research*. <[paper](http://commoneconomist.github.io/files/jpr.pdf)> <[appendix](http://commoneconomist.github.io/files/jpr.app.pdf)> <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/climate-conflict)>
+1.  van Weezel, S. (2019). "On climate and conflict: Precipitation decline and communal conflict in Ethiopia and Kenya". *Journal of Peace Research*. <[paper](http://commoneconomist.github.io/files/jpr.pdf)> <[appendix](http://commoneconomist.github.io/files/jpr.app.pdf)> <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/rain-conflict)>
 
 2.  Spagat, M. & van Weezel S. (2019) "On the decline of war", in Lewis F Richardson - His Intellectual Legacy and Influence in the Social Sciences, ed. Nils Petter Gleditsch, Springer Pioneer Series.  <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/war-decline)>
 
