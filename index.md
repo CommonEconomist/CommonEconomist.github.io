@@ -5,8 +5,8 @@ layout: default
 I am an applied applied econometrist with research interests in political economy and development economics. 
 Much of my research has been about the determinants and consequences of violent armed conflict, in particular in Africa. 
 In addition I have some projects addressing universal patterns in war severity. 
-My recent work applies Bayesian modelling of treatment effect heterogeneity and focuses on out-of-sample testing to quantify uncertainty.   
-My current research is on:
+My recent work applies Bayesian modelling of treatment effect heterogeneity, using out-of-sample testing to quantify uncertainty.   
+My current research focuses on:
 
 * Economic dependence and civil conflict, specifically post-colonial trade relations in Africa;
 * The environmental implications of refugees in Africa.
