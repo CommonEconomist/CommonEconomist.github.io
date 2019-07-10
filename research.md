@@ -7,10 +7,9 @@ permalink: /research/
 * Apocalypse now? Climate change and war in Africa. <[paper](http://www.ucd.ie/t4cms/WP18_16.pdf)>
 
 ### Articles and chapters
+* Spagat, M. & van Weezel S. (forthcoming) The decline of war since 1950: New evidence, in Lewis F Richardson - His Intellectual Legacy and Influence in the Social Sciences, ed. Nils Petter Gleditsch, Springer Pioneer Series.  <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/war-decline)>
 
 * van Weezel, S. (2019). On climate and conflict: Precipitation decline and communal conflict in Ethiopia and Kenya. *Journal of Peace Research* 56(4): 514-528. <[paper](http://commoneconomist.github.io/files/jpr.pdf)> <[appendix](http://commoneconomist.github.io/files/jpr.app.pdf)> <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/rain-conflict)>
-
-* Spagat, M. & van Weezel S. (forthcoming) The decline of war since 1950: New evidence, in Lewis F Richardson - His Intellectual Legacy and Influence in the Social Sciences, ed. Nils Petter Gleditsch, Springer Pioneer Series.  <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/war-decline)>
 
 * Spagat, M., Johnson, N. & van Weezel, S. (2018). Fundamental patterns and predictions of event size distributions in modern wars and terrorist campaigns. *PLOS One* 13 (10): e0204639. <[paper](http://commoneconomist.github.io/files/pone.13.10.pdf)> <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/david-vs-goliath)>
 
