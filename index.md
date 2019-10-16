@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Published papers
+### Published papers
 
 * van Weezel, S. (forthcoming). Local warming and violent armed conflict in Africa. *World Development*. <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/climate-conflict)>
 
@@ -22,7 +22,7 @@ layout: default
 
 * van Weezel, S. (2015). Economic shocks and civil conflict onset in Sub-Saharan Africa, 1981-2010. *Defence and Peace Economics* 26(2): 153-177. <[paper](http://commoneconomist.github.io/files/dpe.26.2.153.pdf)> <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/econ-shocks-conflict)>
 
-#### In limbo
+### In limbo
 * Food security and armed conflict: A cross-country analysis. <[paper](http://www.fao.org/3/CA0971EN/ca0971en.pdf)>
     * Served as input for FAO report on [conflict and food security](http://www.fao.org/3/a-i7821e.pdf).
 * Drought severity and communal conflict in Nigeria. <[paper](https://econpapers.repec.org/paper/hicwpaper/240.htm)>
