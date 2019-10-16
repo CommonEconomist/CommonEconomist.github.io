@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Published papers
+#### Published papers
 
 * van Weezel, S. (forthcoming). Local warming and violent armed conflict in Africa. *World Development*. <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/climate-conflict)>
 
