@@ -4,7 +4,7 @@ layout: default
 
 **Published papers**
 
-* Johnson, N.F., van Weezel, S., Spagat, M., Johnson Restrepo, D. (forthcoming). Patterns in terrorism and insurgency: From real events and online extremism to a generative mathematical model, in Understanding Crime through Science, Springer.
+* Johnson, N.F., van Weezel, S., Spagat, M., Johnson Restrepo, D. (forthcoming). Patterns in terrorism and insurgency: From real events and online extremism to a generative mathematical model, in Understanding Crime through Science, Springer. <[paper](https://www.researchgate.net/publication/333681481_Patterns_in_Terrorism_and_Insurgency_From_real_events_and_online_extremism_to_a_generative_mathematical_model)>
 
 * van Weezel, S. (2020). Local warming and violent armed conflict in Africa. *World Development*. <[paper](https://www.sciencedirect.com/science/article/pii/S0305750X19303560)> <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/climate-conflict)>
 
