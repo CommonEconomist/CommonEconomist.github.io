@@ -20,7 +20,12 @@ layout: default
     
 * van Weezel, S. (2016). Food imports, international prices, and violence in Africa. *Oxford Economic Papers* 68(3): 758-781. <[paper](http://commoneconomist.github.io/files/oep.68.3.758.pdf)> <[appendix](http://commoneconomist.github.io/files/oep.68.3.758.app.pdf)>  <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/food-prices-violence)>
 
-* van Weezel, S. (2015). Economic shocks and civil conflict onset in Sub-Saharan Africa, 1981-2010. *Defence and Peace Economics* 26(2): 153-177. <[paper](http://commoneconomist.github.io/files/dpe.26.2.153.pdf)> <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/econ-shocks-conflict)>
+* van Weezel, S. (2015). Economic shocks and civil conflict onset in Sub-Saharan Africa, 1981-2010. *Defence and Peace Economics* 26(2): 153-177. <[paper](http://commoneconomist.github.io/files/dpe.26.2.153.pdf)> <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/econ-shocks-conflict)>    
+
+
+**Working papers**
+* Spagat, M., van Weezel, S., Zheng, M., Johnson, N. (2019). Toward a unified understanding of casualty distributions in human conflict. <[paper](https://arxiv.org/pdf/1911.01994.pdf)>    
+
 
 **In limbo**
 * Food security and armed conflict: A cross-country analysis. <[paper](http://www.fao.org/3/CA0971EN/ca0971en.pdf)>
