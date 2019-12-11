@@ -8,7 +8,7 @@ layout: default
 
 * van Weezel, S. (2020). Local warming and violent armed conflict in Africa. *World Development*. <[paper](https://www.sciencedirect.com/science/article/pii/S0305750X19303560)> <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/climate-conflict)>
 
-* Spagat, M., van Weezel, S. (2020). The decline of war since 1950: New evidence, in Lewis F Richardson - His Intellectual Legacy and Influence in the Social Sciences, ed. Nils Petter Gleditsch, Springer Pioneer Series. <[book](https://www.springer.com/gp/book/9783030315887)>  <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/war-decline)>
+* Spagat, M., van Weezel, S. (2020). The decline of war since 1950: New evidence, in Lewis F Richardson - His Intellectual Legacy and Influence in the Social Sciences, ed. Nils Petter Gleditsch, Springer Pioneer Series. <[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-31589-4_11.pdf)>  <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/war-decline)>
 
 * van Weezel, S. (2019). On climate and conflict: Precipitation decline and communal conflict in Ethiopia and Kenya. *Journal of Peace Research* 56(4): 514-528. <[paper](http://commoneconomist.github.io/files/jpr.pdf)> <[appendix](http://commoneconomist.github.io/files/jpr.app.pdf)> <[replication data](https://github.com/CommonEconomist/replication-data/tree/master/rain-conflict)>
 
