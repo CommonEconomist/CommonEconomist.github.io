@@ -24,7 +24,9 @@ layout: default
 
 
 **Working papers**
+* van Weezel, S. (2019). Decline of war or end of positive check? Analysis of change in war size distribution between 1816-2007 <[paper](http://dx.doi.org/10.13140/RG.2.2.29662.79681)>
 * Spagat, M., van Weezel, S., Zheng, M., Johnson, N. (2019). Toward a unified understanding of casualty distributions in human conflict. <[paper](https://arxiv.org/pdf/1911.01994.pdf)>    
+
 
 
 **In limbo**
