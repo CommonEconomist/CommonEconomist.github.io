@@ -4,9 +4,11 @@ layout: default
 
 **Published papers**
 
-* Maystadt, J.-F., Mueller, V., Van Den Hoek, J., van Weezel, S. (2020). Vegetation changes attributable to refugees in Africa coincide with agricultural deforestation. *Environmental Research Letters* . <[paper](https://doi.org/10.1088/1748-9326/ab6d7c)> <[replication data](https://github.com/CommonEconomist/replication-material/blob/master/deforestationRefugees.7z)>
+* Johnson, N.F., Johnson Restrepo, D., van Weezel, S., Zheng, M., Spagat, M. (*forthcoming*). A computational science approach to understanding human conflict. *Journal of Computational Science*.
 
-* Johnson, N.F., van Weezel, S., Spagat, M., Johnson Restrepo, D. (forthcoming). Patterns in terrorism and insurgency: From real events and online extremism to a generative mathematical model, in Understanding Crime through Science, Springer. <[paper](https://www.researchgate.net/publication/333681481_Patterns_in_Terrorism_and_Insurgency_From_real_events_and_online_extremism_to_a_generative_mathematical_model)>
+* Johnson, N.F., van Weezel, S., Spagat, M., Johnson Restrepo, D. (*forthcoming*). Patterns in terrorism and insurgency: From real events and online extremism to a generative mathematical model, in Understanding Crime through Science, Springer. <[paper](https://www.researchgate.net/publication/333681481_Patterns_in_Terrorism_and_Insurgency_From_real_events_and_online_extremism_to_a_generative_mathematical_model)>
+
+* Maystadt, J.-F., Mueller, V., Van Den Hoek, J., van Weezel, S. (2020). Vegetation changes attributable to refugees in Africa coincide with agricultural deforestation. *Environmental Research Letters* . <[paper](https://doi.org/10.1088/1748-9326/ab6d7c)> <[replication data](https://github.com/CommonEconomist/replication-material/blob/master/deforestationRefugees.7z)>
 
 * van Weezel, S. (2020). Local warming and violent armed conflict in Africa. *World Development*. <[paper](https://www.sciencedirect.com/science/article/pii/S0305750X19303560)> <[replication data](https://github.com/CommonEconomist/replication-material/blob/master/apocalypseNow.7z)>
 
