@@ -4,7 +4,7 @@ layout: default
 
 **Published papers**
 
-* Johnson Restrepo, D., van Weezel, S., Zheng, M., Spagat, M., Johnson, N.F. (2020). A computational science approach to understanding human conflict. *Journal of Computational Science*. <[paper](https://www.sciencedirect.com/science/article/abs/pii/S1877750319313456)>
+* Johnson Restrepo, D.D., van Weezel, S., Zheng, M., Spagat, M., Johnson, N.F. (2020). A computational science approach to understanding human conflict. *Journal of Computational Science*. <[paper](https://www.sciencedirect.com/science/article/abs/pii/S1877750319313456)>
 
 * Johnson, N.F., van Weezel, S., Spagat, M., Johnson Restrepo, D. (*forthcoming*). Patterns in terrorism and insurgency: From real events and online extremism to a generative mathematical model, in Understanding Crime through Science, Springer. <[paper](https://www.researchgate.net/publication/333681481_Patterns_in_Terrorism_and_Insurgency_From_real_events_and_online_extremism_to_a_generative_mathematical_model)>
 
