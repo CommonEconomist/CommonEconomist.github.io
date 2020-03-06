@@ -4,6 +4,8 @@ layout: default
 
 **Published papers**
 
+* Spagat, M., van Weezel, S. (forthcoming). Excess deaths and Hurricane María. *Population and Environment*.
+
 * Johnson Restrepo, D.D., van Weezel, S., Zheng, M., Spagat, M., Johnson, N.F. (2020). A computational science approach to understanding human conflict. *Journal of Computational Science*. <[paper](https://www.sciencedirect.com/science/article/abs/pii/S1877750319313456)>
 
 * Maystadt, J.-F., Mueller, V., Van Den Hoek, J., van Weezel, S. (2020). Vegetation changes attributable to refugees in Africa coincide with agricultural deforestation. *Environmental Research Letters* . <[paper](https://doi.org/10.1088/1748-9326/ab6d7c)> <[replication data](https://github.com/CommonEconomist/replication-material/blob/master/deforestationRefugees)>
