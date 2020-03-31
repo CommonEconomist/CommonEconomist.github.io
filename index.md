@@ -4,7 +4,7 @@ layout: default
 
 **Published papers**
 
-* Spagat, M., van Weezel, S. (forthcoming). Excess deaths and Hurricane María. *Population and Environment*. <[replication data](https://github.com/CommonEconomist/replication-material/tree/master/hurricane-maria)>
+* Spagat, M., van Weezel, S. (2020). Excess deaths and Hurricane María. *Population and Environment*. <[paper](https://link.springer.com/epdf/10.1007/s11111-020-00341-x?author_access_token=L4HZg-tO4L5rdWcYD6pb-Pe4RwlQNchNByi7wbcMAY4BkjT5qd0lZZIBvC_NZe5s8uw9Rx2-sA4EPIU9j7Fu62AOUhC5pJGqmUcr9UADUK6eZ6Q5O2KpJkf1H6fWxv-5v6aZbYMJ_M75n-m3fynCyQ%3D%3D)> <[replication data](https://github.com/CommonEconomist/replication-material/tree/master/hurricane-maria)>
 
 * Johnson Restrepo, D.D., van Weezel, S., Zheng, M., Spagat, M., Johnson, N.F. (2020). A computational science approach to understanding human conflict. *Journal of Computational Science*. <[paper](https://www.sciencedirect.com/science/article/abs/pii/S1877750319313456)>
 
