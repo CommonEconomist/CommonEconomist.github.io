@@ -28,14 +28,14 @@ layout: default
 
 
 **Working papers**
-* van Weezel, S. (2019). Decline of war or end of positive check? Analysis of change in war size distribution between 1816-2007. <[paper](http://dx.doi.org/10.13140/RG.2.2.29662.79681)>
-* Spagat, M., van Weezel, S., Zheng, M., Johnson, N. (2019). Toward a unified understanding of casualty distributions in human conflict. <[paper](https://arxiv.org/pdf/1911.01994.pdf)>    
+* van Weezel, S. (2019). [Decline of war or end of positive check? Analysis of change in war size distribution between 1816-2007](http://dx.doi.org/10.13140/RG.2.2.29662.79681).
+* Spagat, M., van Weezel, S., Zheng, M., Johnson, N. (2019). [Toward a unified understanding of casualty distributions in human conflict](https://arxiv.org/pdf/1911.01994.pdf).    
 
 
 
 **In limbo**
-* Food security and armed conflict: A cross-country analysis. <[paper](http://www.fao.org/3/CA0971EN/ca0971en.pdf)>
+* [Food security and armed conflict: A cross-country analysis](http://www.fao.org/3/CA0971EN/ca0971en.pdf).
     * Served as input for FAO report on [conflict and food security](http://www.fao.org/3/a-i7821e.pdf).
-* Drought severity and communal conflict in Nigeria. <[paper](https://econpapers.repec.org/paper/hicwpaper/240.htm)>
-*  Mostly Harmless? A subnational analysis of the aid-conflict nexus. <[paper](https://www.ucd.ie/t4cms/WP17_28.pdf)>
-   * Previously: A spatial analysis of the effect of foreign aid in conflict areas. <[paper](https://www.aiddata.org/publications/a-spatial-analysis-of-the-effect-of-foreign-aid-in-conflict-areas)>
+* [Drought severity and communal conflict in Nigeria](https://econpapers.repec.org/paper/hicwpaper/240.htm). 
+*  [Mostly Harmless? A subnational analysis of the aid-conflict nexus](https://www.ucd.ie/t4cms/WP17_28.pdf).
+   * Previously: [A spatial analysis of the effect of foreign aid in conflict areas](https://www.aiddata.org/publications/a-spatial-analysis-of-the-effect-of-foreign-aid-in-conflict-areas). 
