@@ -28,6 +28,7 @@ layout: default
 
 
 **Working papers**
+* van Weezel, S. (2020). [On uprisings, ethnic affiliation, and commodity prices: An empirical analysis on civil resistance success rate](https://www.researchgate.net/publication/341453594)
 * van Weezel, S. (2020). [Economic dependence and civil conflict](http://dx.doi.org/10.13140/RG.2.2.33232.53762).
 * van Weezel, S. (2019). [Decline of war or end of positive check? Analysis of change in war size distribution between 1816-2007](http://dx.doi.org/10.13140/RG.2.2.29662.79681).
 * Spagat, M., van Weezel, S., Zheng, M., Johnson, N. (2019). [Toward a unified understanding of casualty distributions in human conflict](https://arxiv.org/pdf/1911.01994.pdf).    
