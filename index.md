@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Publications &c.
+# Publications etc.
 
 ## Articles and Book Chapters
 
