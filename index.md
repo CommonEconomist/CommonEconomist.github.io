@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Articles and Book Chapters
+## Articles and Book Chapters
 
 "Excess deaths and Hurricane María". *Population and Environment*. / [Link](https://link.springer.com/article/10.1007/s11111-020-00341-x) / [Replication data](https://github.com/CommonEconomist/replication-material/tree/master/hurricane-maria)
 
@@ -27,7 +27,7 @@ layout: default
 "Economic shocks and civil conflict onset in Sub-Saharan Africa", 1981-2010. Defence and Peace Economics* 26(2): 153-177. / [Link](http://commoneconomist.github.io/files/dpe.26.2.153.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/economic-shocks-conflict)    
 
 
-### Working papers
+## Working papers
 
 "On uprisings, ethnic affiliation, and commodity prices: An empirical analysis on civil resistance success rate". / [Link](https://www.researchgate.net/publication/341453594)
 
@@ -36,7 +36,7 @@ layout: default
 "Decline of war or end of positive check? Analysis of change in war size distribution between 1816-2007". / [Link](http://dx.doi.org/10.13140/RG.2.2.29662.79681)
 
 "Toward a unified understanding of casualty distributions in human conflict". / [Link](https://arxiv.org/pdf/1911.01994.pdf).    
-### Retired papers
+## Retired papers
 "Food security and armed conflict: A cross-country analysis". / [Link](http://www.fao.org/3/CA0971EN/ca0971en.pdf).
    * Served as input for FAO report on [conflict and food security](http://www.fao.org/3/a-i7821e.pdf).
     
