@@ -13,7 +13,7 @@ layout: default
 
 "Local warming and violent armed conflict in Africa". *World Development*. / [Link](https://www.sciencedirect.com/science/article/pii/S0305750X19303560) /  [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/apocalypse-now)
 
-"The decline of war since 1950: New evidence", in Lewis F Richardson - His Intellectual Legacy and Influence in the Social Sciences, ed. Nils Petter Gleditsch, Springer Pioneer Series. / [Link](https://link.springer.com/content/pdf/10.1007%2F978-3-030-31589-4_11.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/war-decline)
+"The decline of war since 1950: New evidence", in *Lewis F Richardson - His Intellectual Legacy and Influence in the Social Sciences*, ed. Nils Petter Gleditsch, Springer Pioneer Series. / [Link](https://link.springer.com/content/pdf/10.1007%2F978-3-030-31589-4_11.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/war-decline)
 
 "On climate and conflict: Precipitation decline and communal conflict in Ethiopia and Kenya". *Journal of Peace Research* 56(4): 514-528. / [Link](http://commoneconomist.github.io/files/jpr.pdf) / [Appendix](http://commoneconomist.github.io/files/jpr.app.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/climate-conflict)
 
