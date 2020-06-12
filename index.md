@@ -42,6 +42,6 @@ layout: default
    
 "Drought severity and communal conflict in Nigeria". / [PDF](https://econpapers.repec.org/paper/hicwpaper/240.htm). 
 
-"Mostly Harmless? A subnational analysis of the aid-conflict nexus". / [Link](https://www.ucd.ie/t4cms/WP17_28.pdf).
-   * Previously: ["A spatial analysis of the effect of foreign aid in conflict areas"](https://www.aiddata.org/publications/a-spatial-analysis-of-the-effect-of-foreign-aid-in-conflict-areas). 
+"Mostly Harmless? A subnational analysis of the aid-conflict nexus". / [PDF](https://www.ucd.ie/t4cms/WP17_28.pdf).
+   * Previously: "A spatial analysis of the effect of foreign aid in conflict areas" / [PDF](https://www.aiddata.org/publications/a-spatial-analysis-of-the-effect-of-foreign-aid-in-conflict-areas). 
 
