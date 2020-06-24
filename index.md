@@ -25,7 +25,7 @@ layout: default
     
 "Food imports, international prices, and violence in Africa". *Oxford Economic Papers* 68(3): 758-781. / [PDF](http://commoneconomist.github.io/files/oep.68.3.758.pdf) / [Appendix](http://commoneconomist.github.io/files/oep.68.3.758.app.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/food-prices-violence)
 
-"Economic shocks and civil conflict onset in Sub-Saharan Africa", 1981-2010. Defence and Peace Economics* 26(2): 153-177. / [PDF](http://commoneconomist.github.io/files/dpe.26.2.153.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/economic-shocks-conflict)    
+"Economic shocks and civil conflict onset in Sub-Saharan Africa", 1981-2010. *Defence and Peace Economics* 26(2): 153-177. / [PDF](http://commoneconomist.github.io/files/dpe.26.2.153.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/economic-shocks-conflict)    
 
 
 ## Working papers
