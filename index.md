@@ -5,7 +5,7 @@ layout: default
 
 ## Articles and Book Chapters
 
-"Excess deaths and Hurricane María". *Population and Environment*. / [PDF](https://link.springer.com/content/pdf/10.1007/s11111-020-00341-x.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/tree/master/hurricane-maria)
+"Excess deaths and Hurricane María". *Population and Environment* 42(1): 79-94. / [PDF](https://link.springer.com/content/pdf/10.1007/s11111-020-00341-x.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/tree/master/hurricane-maria)
 
 "A computational science approach to understanding human conflict". *Journal of Computational Science*. / [PDF](https://github.com/CommonEconomist/icanhazpdf/blob/wd/jocs2020.pdf)
 
