@@ -5,6 +5,8 @@ layout: default
 
 ## Articles and Book Chapters
 
+"Unifying casualty distributions within and across conflicts". *Heliyon* (*in press*)
+
 "Excess deaths and Hurricane María". *Population and Environment* 42(1): 79-94. / [PDF](https://link.springer.com/content/pdf/10.1007/s11111-020-00341-x.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/tree/master/hurricane-maria)
 
 "A computational science approach to understanding human conflict". *Journal of Computational Science*. / [PDF](https://github.com/CommonEconomist/icanhazpdf/blob/wd/jocs2020.pdf)
@@ -27,17 +29,13 @@ layout: default
 
 "Economic shocks and civil conflict onset in Sub-Saharan Africa", 1981-2010. *Defence and Peace Economics* 26(2): 153-177. / [PDF](http://commoneconomist.github.io/files/dpe.26.2.153.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/economic-shocks-conflict)    
 
-
-## Working papers
-
+## Retired papers
 "On uprisings, ethnic affiliation, and commodity prices: An empirical analysis on civil resistance success rate". / [PDF](https://www.researchgate.net/publication/341453594)
 
 "Economic dependence and civil conflict". / [PDF](http://dx.doi.org/10.13140/RG.2.2.33232.53762)
 
 "Decline of war or end of positive check? Analysis of change in war size distribution between 1816-2007". / [PDF](http://dx.doi.org/10.13140/RG.2.2.29662.79681)
 
-"Toward a unified understanding of casualty distributions in human conflict". / [PDF](https://arxiv.org/pdf/1911.01994.pdf).    
-## Retired papers
 "Food security and armed conflict: A cross-country analysis". / [PDF](http://www.fao.org/3/CA0971EN/ca0971en.pdf).
    
 "Drought severity and communal conflict in Nigeria". / [PDF](https://econpapers.repec.org/paper/hicwpaper/240.htm). 
