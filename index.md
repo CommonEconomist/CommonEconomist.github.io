@@ -5,7 +5,7 @@ layout: default
 
 ## Articles and Book Chapters
 
-"Unifying casualty distributions within and across conflicts". *Heliyon* (*in press*)
+"Unifying casualty distributions within and across conflicts". *Heliyon* 6(8): e04808 / [PDF](https://reader.elsevier.com/reader/sd/pii/S2405844020316510?token=4A6EEC3614B6983B4192674B7B462305A501A6A01B22BC78A714F631F4717866A5BC4A7C6FCDBAC6A7FCD6E182369298) / [Replication data](https://github.com/CommonEconomist/replication-material/tree/master/conflict-scale)
 
 "Excess deaths and Hurricane María". *Population and Environment* 42(1): 79-94. / [PDF](https://link.springer.com/content/pdf/10.1007/s11111-020-00341-x.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/tree/master/hurricane-maria)
 
