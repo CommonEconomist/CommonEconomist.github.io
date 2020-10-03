@@ -25,9 +25,9 @@ layout: default
 
 "Half a million excess deaths in the Iraq war: Terms and conditions may apply". *Research and Politics* 4(4). / [PDF](http://commoneconomist.github.io/files/rap.4.4.pdf) / [Appendix](http://commoneconomist.github.io/files/rap.4.4.app.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/excess-mortality-iraq)
     
-"Food imports, international prices, and violence in Africa". *Oxford Economic Papers* 68(3): 758-781. / [PDF](http://commoneconomist.github.io/files/oep.68.3.pdf) / [Appendix](http://commoneconomist.github.io/files/oep.68.3.app.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/food-prices-violence)
+"Food imports, international prices, and violence in Africa". *Oxford Economic Papers* 68(3): 758-781. / [PDF](http://commoneconomist.github.io/files/oep.68.3.758.pdf) / [Appendix](http://commoneconomist.github.io/files/oep.68.3.app.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/food-prices-violence)
 
-"Economic shocks and civil conflict onset in Sub-Saharan Africa", 1981-2010. *Defence and Peace Economics* 26(2): 153-177. / [PDF](http://commoneconomist.github.io/files/dpe.26.2.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/economic-shocks-conflict)    
+"Economic shocks and civil conflict onset in Sub-Saharan Africa 1981-2010". *Defence and Peace Economics* 26(2): 153-177. / [PDF](http://commoneconomist.github.io/files/dpe.26.2.pdf) / [Replication data](http://commoneconomist.github.io/files/dpe.26.2.153.pdf)    
 
 ## Retired papers
 "On uprisings, ethnic affiliation, and commodity prices: An empirical analysis on civil resistance success rate". / [PDF](https://www.researchgate.net/publication/341453594)
