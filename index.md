@@ -21,9 +21,9 @@ layout: default
 
 "Fundamental patterns and predictions of event size distributions in modern wars and terrorist campaigns". *PLOS One* 13 (10): e0204639. / [PDF](http://commoneconomist.github.io/files/pone.13.10.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/david-vs-goliath)
 
-"Terms and conditions still apply: A rejoinder to Hagopian et al." *Research and Politics* 5(1). / [PDF](http://commoneconomist.github.io/files/rap.5.1.pdf)
+"Terms and conditions still apply: A rejoinder to Hagopian et al." *Research and Politics* 5(1). / [PDF](http://commoneconomist.github.io/files/rap.5.1.1.pdf)
 
-"Half a million excess deaths in the Iraq war: Terms and conditions may apply". *Research and Politics* 4(4). / [PDF](http://commoneconomist.github.io/files/rap.4.4.pdf) / [Appendix](http://commoneconomist.github.io/files/rap.4.4.app.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/excess-mortality-iraq)
+"Half a million excess deaths in the Iraq war: Terms and conditions may apply". *Research and Politics* 4(4). / [PDF](http://commoneconomist.github.io/files/rap.4.4.1pdf) / [Appendix](http://commoneconomist.github.io/files/rap.4.4.1.app.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/excess-mortality-iraq)
     
 "Food imports, international prices, and violence in Africa". *Oxford Economic Papers* 68(3): 758-781. / [PDF](http://commoneconomist.github.io/files/oep.68.3.758.pdf) / [Appendix](http://commoneconomist.github.io/files/oep.68.3.app.pdf) / [Replication data](https://github.com/CommonEconomist/replication-material/blob/master/food-prices-violence)
 
